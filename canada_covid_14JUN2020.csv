@@ -1,0 +1,1729 @@
+Date,Vicinity,Area,Region,Confirmed,New_cases_diff,New_cases,Area.b,Population,Percent ,Rate
+22-Jan-20,,Alberta,Canada,0,0,0,Alberta,4413146,0,0
+23-Jan-20,,Alberta,Canada,0,0,0,Alberta,4413147,0,0
+24-Jan-20,,Alberta,Canada,0,0,0,Alberta,4413148,0,0
+25-Jan-20,,Alberta,Canada,0,0,0,Alberta,4413149,0,0
+26-Jan-20,,Alberta,Canada,0,0,0,Alberta,4413150,0,0
+27-Jan-20,,Alberta,Canada,0,0,0,Alberta,4413151,0,0
+28-Jan-20,,Alberta,Canada,0,0,0,Alberta,4413152,0,0
+29-Jan-20,,Alberta,Canada,0,0,0,Alberta,4413153,0,0
+30-Jan-20,,Alberta,Canada,0,0,0,Alberta,4413154,0,0
+31-Jan-20,,Alberta,Canada,0,0,0,Alberta,4413155,0,0
+1-Feb-20,,Alberta,Canada,0,0,0,Alberta,4413156,0,0
+2-Feb-20,,Alberta,Canada,0,0,0,Alberta,4413157,0,0
+3-Feb-20,,Alberta,Canada,0,0,0,Alberta,4413158,0,0
+4-Feb-20,,Alberta,Canada,0,0,0,Alberta,4413159,0,0
+5-Feb-20,,Alberta,Canada,0,0,0,Alberta,4413160,0,0
+6-Feb-20,,Alberta,Canada,0,0,0,Alberta,4413161,0,0
+7-Feb-20,,Alberta,Canada,0,0,0,Alberta,4413162,0,0
+8-Feb-20,,Alberta,Canada,0,0,0,Alberta,4413163,0,0
+9-Feb-20,,Alberta,Canada,0,0,0,Alberta,4413164,0,0
+10-Feb-20,,Alberta,Canada,0,0,0,Alberta,4413165,0,0
+11-Feb-20,,Alberta,Canada,0,0,0,Alberta,4413166,0,0
+12-Feb-20,,Alberta,Canada,0,0,0,Alberta,4413167,0,0
+13-Feb-20,,Alberta,Canada,0,0,0,Alberta,4413168,0,0
+14-Feb-20,,Alberta,Canada,0,0,0,Alberta,4413169,0,0
+15-Feb-20,,Alberta,Canada,0,0,0,Alberta,4413170,0,0
+16-Feb-20,,Alberta,Canada,0,0,0,Alberta,4413171,0,0
+17-Feb-20,,Alberta,Canada,0,0,0,Alberta,4413172,0,0
+18-Feb-20,,Alberta,Canada,0,0,0,Alberta,4413173,0,0
+19-Feb-20,,Alberta,Canada,0,0,0,Alberta,4413174,0,0
+20-Feb-20,,Alberta,Canada,0,0,0,Alberta,4413175,0,0
+21-Feb-20,,Alberta,Canada,0,0,0,Alberta,4413176,0,0
+22-Feb-20,,Alberta,Canada,0,0,0,Alberta,4413177,0,0
+23-Feb-20,,Alberta,Canada,0,0,0,Alberta,4413178,0,0
+24-Feb-20,,Alberta,Canada,0,0,0,Alberta,4413179,0,0
+25-Feb-20,,Alberta,Canada,0,0,0,Alberta,4413180,0,0
+26-Feb-20,,Alberta,Canada,0,0,0,Alberta,4413181,0,0
+27-Feb-20,,Alberta,Canada,0,0,0,Alberta,4413182,0,0
+28-Feb-20,,Alberta,Canada,0,0,0,Alberta,4413183,0,0
+29-Feb-20,,Alberta,Canada,0,0,0,Alberta,4413184,0,0
+1-Mar-20,,Alberta,Canada,0,0,0,Alberta,4413185,0,0
+2-Mar-20,,Alberta,Canada,0,0,0,Alberta,4413186,0,0
+3-Mar-20,,Alberta,Canada,0,0,0,Alberta,4413187,0,0
+4-Mar-20,,Alberta,Canada,0,0,0,Alberta,4413188,0,0
+5-Mar-20,,Alberta,Canada,0,0,0,Alberta,4413189,0,0
+6-Mar-20,,Alberta,Canada,1,1,1,Alberta,4413190,2.27E-07,2.27E-07
+7-Mar-20,,Alberta,Canada,2,1,1,Alberta,4413191,4.53E-07,4.53E-07
+8-Mar-20,,Alberta,Canada,4,2,2,Alberta,4413192,9.06E-07,9.06E-07
+9-Mar-20,,Alberta,Canada,7,3,3,Alberta,4413193,1.59E-06,1.59E-06
+10-Mar-20,,Alberta,Canada,7,0,0,Alberta,4413194,1.59E-06,1.59E-06
+11-Mar-20,,Alberta,Canada,19,12,12,Alberta,4413195,4.31E-06,4.31E-06
+12-Mar-20,,Alberta,Canada,19,0,0,Alberta,4413196,4.31E-06,4.31E-06
+13-Mar-20,,Alberta,Canada,29,10,10,Alberta,4413197,6.57E-06,6.57E-06
+14-Mar-20,,Alberta,Canada,29,0,0,Alberta,4413198,6.57E-06,6.57E-06
+15-Mar-20,,Alberta,Canada,39,10,10,Alberta,4413199,8.84E-06,8.84E-06
+16-Mar-20,,Alberta,Canada,56,17,17,Alberta,4413200,1.27E-05,1.27E-05
+17-Mar-20,,Alberta,Canada,74,18,18,Alberta,4413201,1.68E-05,1.68E-05
+18-Mar-20,,Alberta,Canada,97,23,23,Alberta,4413202,2.20E-05,2.20E-05
+19-Mar-20,,Alberta,Canada,119,22,22,Alberta,4413203,2.70E-05,2.70E-05
+20-Mar-20,,Alberta,Canada,146,27,27,Alberta,4413204,3.31E-05,3.31E-05
+21-Mar-20,,Alberta,Canada,195,49,49,Alberta,4413205,4.42E-05,4.42E-05
+22-Mar-20,,Alberta,Canada,259,64,64,Alberta,4413206,5.87E-05,5.87E-05
+23-Mar-20,,Alberta,Canada,301,42,42,Alberta,4413207,6.82E-05,6.82E-05
+24-Mar-20,,Alberta,Canada,359,58,58,Alberta,4413208,8.13E-05,8.13E-05
+25-Mar-20,,Alberta,Canada,358,-1,0,Alberta,4413209,8.11E-05,8.11E-05
+26-Mar-20,,Alberta,Canada,486,128,128,Alberta,4413210,0.000110124,0.000110124
+27-Mar-20,,Alberta,Canada,542,56,56,Alberta,4413211,0.000122813,0.000122813
+28-Mar-20,,Alberta,Canada,542,0,0,Alberta,4413212,0.000122813,0.000122813
+29-Mar-20,,Alberta,Canada,621,79,79,Alberta,4413213,0.000140714,0.000140714
+30-Mar-20,,Alberta,Canada,661,40,40,Alberta,4413214,0.000149777,0.000149777
+31-Mar-20,,Alberta,Canada,690,29,29,Alberta,4413215,0.000156349,0.000156349
+1-Apr-20,,Alberta,Canada,754,64,64,Alberta,4413216,0.00017085,0.00017085
+2-Apr-20,,Alberta,Canada,969,215,215,Alberta,4413217,0.000219568,0.000219568
+3-Apr-20,,Alberta,Canada,969,0,0,Alberta,4413218,0.000219568,0.000219568
+4-Apr-20,,Alberta,Canada,1075,106,106,Alberta,4413219,0.000243586,0.000243586
+5-Apr-20,,Alberta,Canada,1181,106,106,Alberta,4413220,0.000267605,0.000267605
+6-Apr-20,,Alberta,Canada,1250,69,69,Alberta,4413221,0.00028324,0.00028324
+7-Apr-20,,Alberta,Canada,1373,123,123,Alberta,4413222,0.000311111,0.000311111
+8-Apr-20,,Alberta,Canada,1373,0,0,Alberta,4413223,0.00031111,0.00031111
+9-Apr-20,,Alberta,Canada,1423,50,50,Alberta,4413224,0.00032244,0.00032244
+10-Apr-20,,Alberta,Canada,1451,28,28,Alberta,4413225,0.000328785,0.000328785
+11-Apr-20,,Alberta,Canada,1567,116,116,Alberta,4413226,0.000355069,0.000355069
+12-Apr-20,,Alberta,Canada,1567,0,0,Alberta,4413227,0.000355069,0.000355069
+13-Apr-20,,Alberta,Canada,1732,165,165,Alberta,4413228,0.000392456,0.000392456
+14-Apr-20,,Alberta,Canada,1870,138,138,Alberta,4413229,0.000423726,0.000423726
+15-Apr-20,,Alberta,Canada,1870,0,0,Alberta,4413230,0.000423726,0.000423726
+16-Apr-20,,Alberta,Canada,1996,126,126,Alberta,4413231,0.000452276,0.000452276
+17-Apr-20,,Alberta,Canada,2397,401,401,Alberta,4413232,0.000543139,0.000543139
+18-Apr-20,,Alberta,Canada,2562,165,165,Alberta,4413233,0.000580527,0.000580527
+19-Apr-20,,Alberta,Canada,2803,241,241,Alberta,4413234,0.000635135,0.000635135
+20-Apr-20,,Alberta,Canada,2908,105,105,Alberta,4413235,0.000658927,0.000658927
+21-Apr-20,,Alberta,Canada,3095,187,187,Alberta,4413236,0.000701299,0.000701299
+22-Apr-20,,Alberta,Canada,3401,306,306,Alberta,4413237,0.000770636,0.000770636
+23-Apr-20,,Alberta,Canada,3720,319,319,Alberta,4413238,0.000842919,0.000842919
+24-Apr-20,,Alberta,Canada,4017,297,297,Alberta,4413239,0.000910216,0.000910216
+25-Apr-20,,Alberta,Canada,4233,216,216,Alberta,4413240,0.000959159,0.000959159
+26-Apr-20,,Alberta,Canada,4480,247,247,Alberta,4413241,0.001015127,0.001015127
+27-Apr-20,,Alberta,Canada,4696,216,216,Alberta,4413242,0.00106407,0.00106407
+28-Apr-20,,Alberta,Canada,4850,154,154,Alberta,4413243,0.001098965,0.001098965
+29-Apr-20,,Alberta,Canada,5165,315,315,Alberta,4413244,0.001170341,0.001170341
+30-Apr-20,,Alberta,Canada,5355,190,190,Alberta,4413245,0.001213393,0.001213393
+1-May-20,,Alberta,Canada,5573,218,218,Alberta,4413246,0.001262789,0.001262789
+2-May-20,,Alberta,Canada,5670,97,97,Alberta,4413247,0.001284768,0.001284768
+3-May-20,,Alberta,Canada,5766,96,96,Alberta,4413248,0.001306521,0.001306521
+4-May-20,,Alberta,Canada,5836,70,70,Alberta,4413249,0.001322382,0.001322382
+5-May-20,,Alberta,Canada,5893,57,57,Alberta,4413250,0.001335297,0.001335297
+6-May-20,,Alberta,Canada,5963,70,70,Alberta,4413251,0.001351158,0.001351158
+7-May-20,,Alberta,Canada,6017,54,54,Alberta,4413252,0.001363394,0.001363394
+8-May-20,,Alberta,Canada,6098,81,81,Alberta,4413253,0.001381747,0.001381747
+9-May-20,,Alberta,Canada,6157,59,59,Alberta,4413254,0.001395116,0.001395116
+10-May-20,,Alberta,Canada,6253,96,96,Alberta,4413255,0.001416868,0.001416868
+11-May-20,,Alberta,Canada,6300,47,47,Alberta,4413256,0.001427517,0.001427517
+12-May-20,,Alberta,Canada,6345,45,45,Alberta,4413257,0.001437714,0.001437714
+13-May-20,,Alberta,Canada,6407,62,62,Alberta,4413258,0.001451762,0.001451762
+14-May-20,,Alberta,Canada,6457,50,50,Alberta,4413259,0.001463091,0.001463091
+15-May-20,,Alberta,Canada,6515,58,58,Alberta,4413260,0.001476233,0.001476233
+16-May-20,,Alberta,Canada,6587,72,72,Alberta,4413261,0.001492547,0.001492547
+17-May-20,,Alberta,Canada,6644,57,57,Alberta,4413262,0.001505462,0.001505462
+18-May-20,,Alberta,Canada,6683,39,39,Alberta,4413263,0.001514299,0.001514299
+19-May-20,,Alberta,Canada,6716,33,33,Alberta,4413264,0.001521776,0.001521776
+20-May-20,,Alberta,Canada,6735,19,19,Alberta,4413265,0.001526081,0.001526081
+21-May-20,,Alberta,Canada,6768,33,33,Alberta,4413266,0.001533558,0.001533558
+22-May-20,,Alberta,Canada,6800,32,32,Alberta,4413267,0.001540809,0.001540809
+23-May-20,,Alberta,Canada,6818,18,18,Alberta,4413268,0.001544887,0.001544887
+24-May-20,,Alberta,Canada,6860,42,42,Alberta,4413269,0.001554403,0.001554403
+25-May-20,,Alberta,Canada,6879,19,19,Alberta,4413270,0.001558708,0.001558708
+26-May-20,,Alberta,Canada,6901,22,22,Alberta,4413271,0.001563693,0.001563693
+27-May-20,,Alberta,Canada,6926,25,25,Alberta,4413272,0.001569357,0.001569357
+28-May-20,,Alberta,Canada,6955,29,29,Alberta,4413273,0.001575928,0.001575928
+29-May-20,,Alberta,Canada,6979,24,24,Alberta,4413274,0.001581366,0.001581366
+30-May-20,,Alberta,Canada,6992,13,13,Alberta,4413275,0.001584311,0.001584311
+31-May-20,,Alberta,Canada,7010,18,18,Alberta,4413276,0.001588389,0.001588389
+1-Jun-20,,Alberta,Canada,7044,34,34,Alberta,4413277,0.001596093,0.001596093
+2-Jun-20,,Alberta,Canada,7057,13,13,Alberta,4413278,0.001599038,0.001599038
+3-Jun-20,,Alberta,Canada,7076,19,19,Alberta,4413279,0.001603343,0.001603343
+4-Jun-20,,Alberta,Canada,7091,15,15,Alberta,4413280,0.001606741,0.001606741
+5-Jun-20,,Alberta,Canada,7098,7,7,Alberta,4413281,0.001608327,0.001608327
+6-Jun-20,,Alberta,Canada,7138,40,40,Alberta,4413282,0.00161739,0.00161739
+7-Jun-20,,Alberta,Canada,7138,0,0,Alberta,4413283,0.00161739,0.00161739
+8-Jun-20,,Alberta,Canada,7202,64,64,Alberta,4413284,0.001631891,0.001631891
+9-Jun-20,,Alberta,Canada,7229,27,27,Alberta,4413285,0.001638009,0.001638009
+10-Jun-20,,Alberta,Canada,7276,47,47,Alberta,4413286,0.001648658,0.001648658
+11-Jun-20,,Alberta,Canada,7316,40,40,Alberta,4413287,0.001657721,0.001657721
+12-Jun-20,,Alberta,Canada,7346,30,30,Alberta,4413288,0.001664519,0.001664519
+13-Jun-20,,Alberta,Canada,7383,37,37,Alberta,4413289,0.001672902,0.001672902
+22-Jan-20,,British Columbia,Canada,0,-7383,0,British Columbia,5110917,0,0
+23-Jan-20,,British Columbia,Canada,0,0,0,British Columbia,5110918,0,0
+24-Jan-20,,British Columbia,Canada,0,0,0,British Columbia,5110919,0,0
+25-Jan-20,,British Columbia,Canada,0,0,0,British Columbia,5110920,0,0
+26-Jan-20,,British Columbia,Canada,0,0,0,British Columbia,5110921,0,0
+27-Jan-20,,British Columbia,Canada,0,0,0,British Columbia,5110922,0,0
+28-Jan-20,,British Columbia,Canada,1,1,1,British Columbia,5110923,1.96E-07,1.96E-07
+29-Jan-20,,British Columbia,Canada,1,0,0,British Columbia,5110924,1.96E-07,1.96E-07
+30-Jan-20,,British Columbia,Canada,1,0,0,British Columbia,5110925,1.96E-07,1.96E-07
+31-Jan-20,,British Columbia,Canada,1,0,0,British Columbia,5110926,1.96E-07,1.96E-07
+1-Feb-20,,British Columbia,Canada,1,0,0,British Columbia,5110927,1.96E-07,1.96E-07
+2-Feb-20,,British Columbia,Canada,1,0,0,British Columbia,5110928,1.96E-07,1.96E-07
+3-Feb-20,,British Columbia,Canada,1,0,0,British Columbia,5110929,1.96E-07,1.96E-07
+4-Feb-20,,British Columbia,Canada,1,0,0,British Columbia,5110930,1.96E-07,1.96E-07
+5-Feb-20,,British Columbia,Canada,2,1,1,British Columbia,5110931,3.91E-07,3.91E-07
+6-Feb-20,,British Columbia,Canada,2,0,0,British Columbia,5110932,3.91E-07,3.91E-07
+7-Feb-20,,British Columbia,Canada,4,2,2,British Columbia,5110933,7.83E-07,7.83E-07
+8-Feb-20,,British Columbia,Canada,4,0,0,British Columbia,5110934,7.83E-07,7.83E-07
+9-Feb-20,,British Columbia,Canada,4,0,0,British Columbia,5110935,7.83E-07,7.83E-07
+10-Feb-20,,British Columbia,Canada,4,0,0,British Columbia,5110936,7.83E-07,7.83E-07
+11-Feb-20,,British Columbia,Canada,4,0,0,British Columbia,5110937,7.83E-07,7.83E-07
+12-Feb-20,,British Columbia,Canada,4,0,0,British Columbia,5110938,7.83E-07,7.83E-07
+13-Feb-20,,British Columbia,Canada,4,0,0,British Columbia,5110939,7.83E-07,7.83E-07
+14-Feb-20,,British Columbia,Canada,4,0,0,British Columbia,5110940,7.83E-07,7.83E-07
+15-Feb-20,,British Columbia,Canada,4,0,0,British Columbia,5110941,7.83E-07,7.83E-07
+16-Feb-20,,British Columbia,Canada,4,0,0,British Columbia,5110942,7.83E-07,7.83E-07
+17-Feb-20,,British Columbia,Canada,5,1,1,British Columbia,5110943,9.78E-07,9.78E-07
+18-Feb-20,,British Columbia,Canada,5,0,0,British Columbia,5110944,9.78E-07,9.78E-07
+19-Feb-20,,British Columbia,Canada,5,0,0,British Columbia,5110945,9.78E-07,9.78E-07
+20-Feb-20,,British Columbia,Canada,5,0,0,British Columbia,5110946,9.78E-07,9.78E-07
+21-Feb-20,,British Columbia,Canada,6,1,1,British Columbia,5110947,1.17E-06,1.17E-06
+22-Feb-20,,British Columbia,Canada,6,0,0,British Columbia,5110948,1.17E-06,1.17E-06
+23-Feb-20,,British Columbia,Canada,6,0,0,British Columbia,5110949,1.17E-06,1.17E-06
+24-Feb-20,,British Columbia,Canada,6,0,0,British Columbia,5110950,1.17E-06,1.17E-06
+25-Feb-20,,British Columbia,Canada,7,1,1,British Columbia,5110951,1.37E-06,1.37E-06
+26-Feb-20,,British Columbia,Canada,7,0,0,British Columbia,5110952,1.37E-06,1.37E-06
+27-Feb-20,,British Columbia,Canada,7,0,0,British Columbia,5110953,1.37E-06,1.37E-06
+28-Feb-20,,British Columbia,Canada,7,0,0,British Columbia,5110954,1.37E-06,1.37E-06
+29-Feb-20,,British Columbia,Canada,8,1,1,British Columbia,5110955,1.57E-06,1.57E-06
+1-Mar-20,,British Columbia,Canada,8,0,0,British Columbia,5110956,1.57E-06,1.57E-06
+2-Mar-20,,British Columbia,Canada,8,0,0,British Columbia,5110957,1.57E-06,1.57E-06
+3-Mar-20,,British Columbia,Canada,9,1,1,British Columbia,5110958,1.76E-06,1.76E-06
+4-Mar-20,,British Columbia,Canada,12,3,3,British Columbia,5110959,2.35E-06,2.35E-06
+5-Mar-20,,British Columbia,Canada,13,1,1,British Columbia,5110960,2.54E-06,2.54E-06
+6-Mar-20,,British Columbia,Canada,21,8,8,British Columbia,5110961,4.11E-06,4.11E-06
+7-Mar-20,,British Columbia,Canada,21,0,0,British Columbia,5110962,4.11E-06,4.11E-06
+8-Mar-20,,British Columbia,Canada,27,6,6,British Columbia,5110963,5.28E-06,5.28E-06
+9-Mar-20,,British Columbia,Canada,32,5,5,British Columbia,5110964,6.26E-06,6.26E-06
+10-Mar-20,,British Columbia,Canada,32,0,0,British Columbia,5110965,6.26E-06,6.26E-06
+11-Mar-20,,British Columbia,Canada,39,7,7,British Columbia,5110966,7.63E-06,7.63E-06
+12-Mar-20,,British Columbia,Canada,46,7,7,British Columbia,5110967,9.00E-06,9.00E-06
+13-Mar-20,,British Columbia,Canada,64,18,18,British Columbia,5110968,1.25E-05,1.25E-05
+14-Mar-20,,British Columbia,Canada,64,0,0,British Columbia,5110969,1.25E-05,1.25E-05
+15-Mar-20,,British Columbia,Canada,73,9,9,British Columbia,5110970,1.43E-05,1.43E-05
+16-Mar-20,,British Columbia,Canada,103,30,30,British Columbia,5110971,2.02E-05,2.02E-05
+17-Mar-20,,British Columbia,Canada,103,0,0,British Columbia,5110972,2.02E-05,2.02E-05
+18-Mar-20,,British Columbia,Canada,186,83,83,British Columbia,5110973,3.64E-05,3.64E-05
+19-Mar-20,,British Columbia,Canada,231,45,45,British Columbia,5110974,4.52E-05,4.52E-05
+20-Mar-20,,British Columbia,Canada,271,40,40,British Columbia,5110975,5.30E-05,5.30E-05
+21-Mar-20,,British Columbia,Canada,424,153,153,British Columbia,5110976,8.30E-05,8.30E-05
+22-Mar-20,,British Columbia,Canada,424,0,0,British Columbia,5110977,8.30E-05,8.30E-05
+23-Mar-20,,British Columbia,Canada,472,48,48,British Columbia,5110978,9.24E-05,9.24E-05
+24-Mar-20,,British Columbia,Canada,617,145,145,British Columbia,5110979,0.000120721,0.000120721
+25-Mar-20,,British Columbia,Canada,617,0,0,British Columbia,5110980,0.00012072,0.00012072
+26-Mar-20,,British Columbia,Canada,725,108,108,British Columbia,5110981,0.000141851,0.000141851
+27-Mar-20,,British Columbia,Canada,725,0,0,British Columbia,5110982,0.000141851,0.000141851
+28-Mar-20,,British Columbia,Canada,884,159,159,British Columbia,5110983,0.000172961,0.000172961
+29-Mar-20,,British Columbia,Canada,884,0,0,British Columbia,5110984,0.000172961,0.000172961
+30-Mar-20,,British Columbia,Canada,970,86,86,British Columbia,5110985,0.000189787,0.000189787
+31-Mar-20,,British Columbia,Canada,1013,43,43,British Columbia,5110986,0.000198201,0.000198201
+1-Apr-20,,British Columbia,Canada,1013,0,0,British Columbia,5110987,0.0001982,0.0001982
+2-Apr-20,,British Columbia,Canada,1121,108,108,British Columbia,5110988,0.000219331,0.000219331
+3-Apr-20,,British Columbia,Canada,1174,53,53,British Columbia,5110989,0.000229701,0.000229701
+4-Apr-20,,British Columbia,Canada,1203,29,29,British Columbia,5110990,0.000235375,0.000235375
+5-Apr-20,,British Columbia,Canada,1203,0,0,British Columbia,5110991,0.000235375,0.000235375
+6-Apr-20,,British Columbia,Canada,1266,63,63,British Columbia,5110992,0.000247701,0.000247701
+7-Apr-20,,British Columbia,Canada,1266,0,0,British Columbia,5110993,0.000247701,0.000247701
+8-Apr-20,,British Columbia,Canada,1291,25,25,British Columbia,5110994,0.000252593,0.000252593
+9-Apr-20,,British Columbia,Canada,1336,45,45,British Columbia,5110995,0.000261397,0.000261397
+10-Apr-20,,British Columbia,Canada,1370,34,34,British Columbia,5110996,0.00026805,0.00026805
+11-Apr-20,,British Columbia,Canada,1445,75,75,British Columbia,5110997,0.000282724,0.000282724
+12-Apr-20,,British Columbia,Canada,1445,0,0,British Columbia,5110998,0.000282724,0.000282724
+13-Apr-20,,British Columbia,Canada,1490,45,45,British Columbia,5110999,0.000291528,0.000291528
+14-Apr-20,,British Columbia,Canada,1490,0,0,British Columbia,5111000,0.000291528,0.000291528
+15-Apr-20,,British Columbia,Canada,1517,27,27,British Columbia,5111001,0.000296811,0.000296811
+16-Apr-20,,British Columbia,Canada,1561,44,44,British Columbia,5111002,0.00030542,0.00030542
+17-Apr-20,,British Columbia,Canada,1575,14,14,British Columbia,5111003,0.000308159,0.000308159
+18-Apr-20,,British Columbia,Canada,1618,43,43,British Columbia,5111004,0.000316572,0.000316572
+19-Apr-20,,British Columbia,Canada,1647,29,29,British Columbia,5111005,0.000322246,0.000322246
+20-Apr-20,,British Columbia,Canada,1647,0,0,British Columbia,5111006,0.000322246,0.000322246
+21-Apr-20,,British Columbia,Canada,1724,77,77,British Columbia,5111007,0.000337311,0.000337311
+22-Apr-20,,British Columbia,Canada,1795,71,71,British Columbia,5111008,0.000351203,0.000351203
+23-Apr-20,,British Columbia,Canada,1824,29,29,British Columbia,5111009,0.000356877,0.000356877
+24-Apr-20,,British Columbia,Canada,1853,29,29,British Columbia,5111010,0.000362551,0.000362551
+25-Apr-20,,British Columbia,Canada,1948,95,95,British Columbia,5111011,0.000381138,0.000381138
+26-Apr-20,,British Columbia,Canada,1948,0,0,British Columbia,5111012,0.000381138,0.000381138
+27-Apr-20,,British Columbia,Canada,1998,50,50,British Columbia,5111013,0.000390921,0.000390921
+28-Apr-20,,British Columbia,Canada,2053,55,55,British Columbia,5111014,0.000401682,0.000401682
+29-Apr-20,,British Columbia,Canada,2087,34,34,British Columbia,5111015,0.000408334,0.000408334
+30-Apr-20,,British Columbia,Canada,2112,25,25,British Columbia,5111016,0.000413225,0.000413225
+1-May-20,,British Columbia,Canada,2145,33,33,British Columbia,5111017,0.000419682,0.000419682
+2-May-20,,British Columbia,Canada,2171,26,26,British Columbia,5111018,0.000424769,0.000424769
+3-May-20,,British Columbia,Canada,2171,0,0,British Columbia,5111019,0.000424769,0.000424769
+4-May-20,,British Columbia,Canada,2224,53,53,British Columbia,5111020,0.000435138,0.000435138
+5-May-20,,British Columbia,Canada,2232,8,8,British Columbia,5111021,0.000436703,0.000436703
+6-May-20,,British Columbia,Canada,2255,23,23,British Columbia,5111022,0.000441203,0.000441203
+7-May-20,,British Columbia,Canada,2288,33,33,British Columbia,5111023,0.00044766,0.00044766
+8-May-20,,British Columbia,Canada,2315,27,27,British Columbia,5111024,0.000452943,0.000452943
+9-May-20,,British Columbia,Canada,2330,15,15,British Columbia,5111025,0.000455877,0.000455877
+10-May-20,,British Columbia,Canada,2330,0,0,British Columbia,5111026,0.000455877,0.000455877
+11-May-20,,British Columbia,Canada,2353,23,23,British Columbia,5111027,0.000460377,0.000460377
+12-May-20,,British Columbia,Canada,2360,7,7,British Columbia,5111028,0.000461747,0.000461747
+13-May-20,,British Columbia,Canada,2376,16,16,British Columbia,5111029,0.000464877,0.000464877
+14-May-20,,British Columbia,Canada,2392,16,16,British Columbia,5111030,0.000468007,0.000468007
+15-May-20,,British Columbia,Canada,2407,15,15,British Columbia,5111031,0.000470942,0.000470942
+16-May-20,,British Columbia,Canada,2428,21,21,British Columbia,5111032,0.000475051,0.000475051
+17-May-20,,British Columbia,Canada,2428,0,0,British Columbia,5111033,0.000475051,0.000475051
+18-May-20,,British Columbia,Canada,2444,16,16,British Columbia,5111034,0.000478181,0.000478181
+19-May-20,,British Columbia,Canada,2446,2,2,British Columbia,5111035,0.000478572,0.000478572
+20-May-20,,British Columbia,Canada,2467,21,21,British Columbia,5111036,0.000482681,0.000482681
+21-May-20,,British Columbia,Canada,2479,12,12,British Columbia,5111037,0.000485029,0.000485029
+22-May-20,,British Columbia,Canada,2507,28,28,British Columbia,5111038,0.000490507,0.000490507
+23-May-20,,British Columbia,Canada,2517,10,10,British Columbia,5111039,0.000492463,0.000492463
+24-May-20,,British Columbia,Canada,2517,0,0,British Columbia,5111040,0.000492463,0.000492463
+25-May-20,,British Columbia,Canada,2530,13,13,British Columbia,5111041,0.000495007,0.000495007
+26-May-20,,British Columbia,Canada,2541,11,11,British Columbia,5111042,0.000497159,0.000497159
+27-May-20,,British Columbia,Canada,2550,9,9,British Columbia,5111043,0.00049892,0.00049892
+28-May-20,,British Columbia,Canada,2558,8,8,British Columbia,5111044,0.000500485,0.000500485
+29-May-20,,British Columbia,Canada,2562,4,4,British Columbia,5111045,0.000501267,0.000501267
+30-May-20,,British Columbia,Canada,2573,11,11,British Columbia,5111046,0.000503419,0.000503419
+31-May-20,,British Columbia,Canada,2573,0,0,British Columbia,5111047,0.000503419,0.000503419
+1-Jun-20,,British Columbia,Canada,2597,24,24,British Columbia,5111048,0.000508115,0.000508115
+2-Jun-20,,British Columbia,Canada,2601,4,4,British Columbia,5111049,0.000508897,0.000508897
+3-Jun-20,,British Columbia,Canada,2623,22,22,British Columbia,5111050,0.000513202,0.000513202
+4-Jun-20,,British Columbia,Canada,2632,9,9,British Columbia,5111051,0.000514963,0.000514963
+5-Jun-20,,British Columbia,Canada,2632,0,0,British Columbia,5111052,0.000514962,0.000514962
+6-Jun-20,,British Columbia,Canada,2632,0,0,British Columbia,5111053,0.000514962,0.000514962
+7-Jun-20,,British Columbia,Canada,2632,0,0,British Columbia,5111054,0.000514962,0.000514962
+8-Jun-20,,British Columbia,Canada,2659,27,27,British Columbia,5111055,0.000520245,0.000520245
+9-Jun-20,,British Columbia,Canada,2669,10,10,British Columbia,5111056,0.000522201,0.000522201
+10-Jun-20,,British Columbia,Canada,2680,11,11,British Columbia,5111057,0.000524353,0.000524353
+11-Jun-20,,British Columbia,Canada,2694,14,14,British Columbia,5111058,0.000527092,0.000527092
+12-Jun-20,,British Columbia,Canada,2709,15,15,British Columbia,5111059,0.000530027,0.000530027
+13-Jun-20,,British Columbia,Canada,2709,0,0,British Columbia,5111060,0.000530027,0.000530027
+22-Jan-20,,Manitoba,Canada,0,-13,0,Manitoba,1377517,0,0
+23-Jan-20,,Manitoba,Canada,0,0,0,Manitoba,1377518,0,0
+24-Jan-20,,Manitoba,Canada,0,0,0,Manitoba,1377519,0,0
+25-Jan-20,,Manitoba,Canada,0,0,0,Manitoba,1377520,0,0
+26-Jan-20,,Manitoba,Canada,0,0,0,Manitoba,1377521,0,0
+27-Jan-20,,Manitoba,Canada,0,0,0,Manitoba,1377522,0,0
+28-Jan-20,,Manitoba,Canada,0,0,0,Manitoba,1377523,0,0
+29-Jan-20,,Manitoba,Canada,0,0,0,Manitoba,1377524,0,0
+30-Jan-20,,Manitoba,Canada,0,0,0,Manitoba,1377525,0,0
+31-Jan-20,,Manitoba,Canada,0,0,0,Manitoba,1377526,0,0
+1-Feb-20,,Manitoba,Canada,0,0,0,Manitoba,1377527,0,0
+2-Feb-20,,Manitoba,Canada,0,0,0,Manitoba,1377528,0,0
+3-Feb-20,,Manitoba,Canada,0,0,0,Manitoba,1377529,0,0
+4-Feb-20,,Manitoba,Canada,0,0,0,Manitoba,1377530,0,0
+5-Feb-20,,Manitoba,Canada,0,0,0,Manitoba,1377531,0,0
+6-Feb-20,,Manitoba,Canada,0,0,0,Manitoba,1377532,0,0
+7-Feb-20,,Manitoba,Canada,0,0,0,Manitoba,1377533,0,0
+8-Feb-20,,Manitoba,Canada,0,0,0,Manitoba,1377534,0,0
+9-Feb-20,,Manitoba,Canada,0,0,0,Manitoba,1377535,0,0
+10-Feb-20,,Manitoba,Canada,0,0,0,Manitoba,1377536,0,0
+11-Feb-20,,Manitoba,Canada,0,0,0,Manitoba,1377537,0,0
+12-Feb-20,,Manitoba,Canada,0,0,0,Manitoba,1377538,0,0
+13-Feb-20,,Manitoba,Canada,0,0,0,Manitoba,1377539,0,0
+14-Feb-20,,Manitoba,Canada,0,0,0,Manitoba,1377540,0,0
+15-Feb-20,,Manitoba,Canada,0,0,0,Manitoba,1377541,0,0
+16-Feb-20,,Manitoba,Canada,0,0,0,Manitoba,1377542,0,0
+17-Feb-20,,Manitoba,Canada,0,0,0,Manitoba,1377543,0,0
+18-Feb-20,,Manitoba,Canada,0,0,0,Manitoba,1377544,0,0
+19-Feb-20,,Manitoba,Canada,0,0,0,Manitoba,1377545,0,0
+20-Feb-20,,Manitoba,Canada,0,0,0,Manitoba,1377546,0,0
+21-Feb-20,,Manitoba,Canada,0,0,0,Manitoba,1377547,0,0
+22-Feb-20,,Manitoba,Canada,0,0,0,Manitoba,1377548,0,0
+23-Feb-20,,Manitoba,Canada,0,0,0,Manitoba,1377549,0,0
+24-Feb-20,,Manitoba,Canada,0,0,0,Manitoba,1377550,0,0
+25-Feb-20,,Manitoba,Canada,0,0,0,Manitoba,1377551,0,0
+26-Feb-20,,Manitoba,Canada,0,0,0,Manitoba,1377552,0,0
+27-Feb-20,,Manitoba,Canada,0,0,0,Manitoba,1377553,0,0
+28-Feb-20,,Manitoba,Canada,0,0,0,Manitoba,1377554,0,0
+29-Feb-20,,Manitoba,Canada,0,0,0,Manitoba,1377555,0,0
+1-Mar-20,,Manitoba,Canada,0,0,0,Manitoba,1377556,0,0
+2-Mar-20,,Manitoba,Canada,0,0,0,Manitoba,1377557,0,0
+3-Mar-20,,Manitoba,Canada,0,0,0,Manitoba,1377558,0,0
+4-Mar-20,,Manitoba,Canada,0,0,0,Manitoba,1377559,0,0
+5-Mar-20,,Manitoba,Canada,0,0,0,Manitoba,1377560,0,0
+6-Mar-20,,Manitoba,Canada,0,0,0,Manitoba,1377561,0,0
+7-Mar-20,,Manitoba,Canada,0,0,0,Manitoba,1377562,0,0
+8-Mar-20,,Manitoba,Canada,0,0,0,Manitoba,1377563,0,0
+9-Mar-20,,Manitoba,Canada,0,0,0,Manitoba,1377564,0,0
+10-Mar-20,,Manitoba,Canada,0,0,0,Manitoba,1377565,0,0
+11-Mar-20,,Manitoba,Canada,0,0,0,Manitoba,1377566,0,0
+12-Mar-20,,Manitoba,Canada,0,0,0,Manitoba,1377567,0,0
+13-Mar-20,,Manitoba,Canada,4,4,4,Manitoba,1377568,2.90E-06,2.90E-06
+14-Mar-20,,Manitoba,Canada,4,0,0,Manitoba,1377569,2.90E-06,2.90E-06
+15-Mar-20,,Manitoba,Canada,4,0,0,Manitoba,1377570,2.90E-06,2.90E-06
+16-Mar-20,,Manitoba,Canada,7,3,3,Manitoba,1377571,5.08E-06,5.08E-06
+17-Mar-20,,Manitoba,Canada,8,1,1,Manitoba,1377572,5.81E-06,5.81E-06
+18-Mar-20,,Manitoba,Canada,15,7,7,Manitoba,1377573,1.09E-05,1.09E-05
+19-Mar-20,,Manitoba,Canada,17,2,2,Manitoba,1377574,1.23E-05,1.23E-05
+20-Mar-20,,Manitoba,Canada,17,0,0,Manitoba,1377575,1.23E-05,1.23E-05
+21-Mar-20,,Manitoba,Canada,18,1,1,Manitoba,1377576,1.31E-05,1.31E-05
+22-Mar-20,,Manitoba,Canada,20,2,2,Manitoba,1377577,1.45E-05,1.45E-05
+23-Mar-20,,Manitoba,Canada,20,0,0,Manitoba,1377578,1.45E-05,1.45E-05
+24-Mar-20,,Manitoba,Canada,21,1,1,Manitoba,1377579,1.52E-05,1.52E-05
+25-Mar-20,,Manitoba,Canada,35,14,14,Manitoba,1377580,2.54E-05,2.54E-05
+26-Mar-20,,Manitoba,Canada,36,1,1,Manitoba,1377581,2.61E-05,2.61E-05
+27-Mar-20,,Manitoba,Canada,39,3,3,Manitoba,1377582,2.83E-05,2.83E-05
+28-Mar-20,,Manitoba,Canada,64,25,25,Manitoba,1377583,4.65E-05,4.65E-05
+29-Mar-20,,Manitoba,Canada,72,8,8,Manitoba,1377584,5.23E-05,5.23E-05
+30-Mar-20,,Manitoba,Canada,96,24,24,Manitoba,1377585,6.97E-05,6.97E-05
+31-Mar-20,,Manitoba,Canada,103,7,7,Manitoba,1377586,7.48E-05,7.48E-05
+1-Apr-20,,Manitoba,Canada,127,24,24,Manitoba,1377587,9.22E-05,9.22E-05
+2-Apr-20,,Manitoba,Canada,167,40,40,Manitoba,1377588,0.000121226,0.000121226
+3-Apr-20,,Manitoba,Canada,182,15,15,Manitoba,1377589,0.000132115,0.000132115
+4-Apr-20,,Manitoba,Canada,182,0,0,Manitoba,1377590,0.000132115,0.000132115
+5-Apr-20,,Manitoba,Canada,203,21,21,Manitoba,1377591,0.000147359,0.000147359
+6-Apr-20,,Manitoba,Canada,203,0,0,Manitoba,1377592,0.000147359,0.000147359
+7-Apr-20,,Manitoba,Canada,217,14,14,Manitoba,1377593,0.000157521,0.000157521
+8-Apr-20,,Manitoba,Canada,217,0,0,Manitoba,1377594,0.000157521,0.000157521
+9-Apr-20,,Manitoba,Canada,221,4,4,Manitoba,1377595,0.000160425,0.000160425
+10-Apr-20,,Manitoba,Canada,230,9,9,Manitoba,1377596,0.000166958,0.000166958
+11-Apr-20,,Manitoba,Canada,243,13,13,Manitoba,1377597,0.000176394,0.000176394
+12-Apr-20,,Manitoba,Canada,242,-1,0,Manitoba,1377598,0.000175668,0.000175668
+13-Apr-20,,Manitoba,Canada,246,4,4,Manitoba,1377599,0.000178572,0.000178572
+14-Apr-20,,Manitoba,Canada,246,0,0,Manitoba,1377600,0.000178571,0.000178571
+15-Apr-20,,Manitoba,Canada,246,0,0,Manitoba,1377601,0.000178571,0.000178571
+16-Apr-20,,Manitoba,Canada,250,4,4,Manitoba,1377602,0.000181475,0.000181475
+17-Apr-20,,Manitoba,Canada,250,0,0,Manitoba,1377603,0.000181475,0.000181475
+18-Apr-20,,Manitoba,Canada,253,3,3,Manitoba,1377604,0.000183652,0.000183652
+19-Apr-20,,Manitoba,Canada,254,1,1,Manitoba,1377605,0.000184378,0.000184378
+20-Apr-20,,Manitoba,Canada,254,0,0,Manitoba,1377606,0.000184378,0.000184378
+21-Apr-20,,Manitoba,Canada,255,1,1,Manitoba,1377607,0.000185104,0.000185104
+22-Apr-20,,Manitoba,Canada,257,2,2,Manitoba,1377608,0.000186555,0.000186555
+23-Apr-20,,Manitoba,Canada,262,5,5,Manitoba,1377609,0.000190185,0.000190185
+24-Apr-20,,Manitoba,Canada,263,1,1,Manitoba,1377610,0.00019091,0.00019091
+25-Apr-20,,Manitoba,Canada,267,4,4,Manitoba,1377611,0.000193814,0.000193814
+26-Apr-20,,Manitoba,Canada,271,4,4,Manitoba,1377612,0.000196717,0.000196717
+27-Apr-20,,Manitoba,Canada,273,2,2,Manitoba,1377613,0.000198169,0.000198169
+28-Apr-20,,Manitoba,Canada,273,0,0,Manitoba,1377614,0.000198169,0.000198169
+29-Apr-20,,Manitoba,Canada,275,2,2,Manitoba,1377615,0.00019962,0.00019962
+30-Apr-20,,Manitoba,Canada,277,2,2,Manitoba,1377616,0.000201072,0.000201072
+1-May-20,,Manitoba,Canada,281,4,4,Manitoba,1377617,0.000203975,0.000203975
+2-May-20,,Manitoba,Canada,282,1,1,Manitoba,1377618,0.000204701,0.000204701
+3-May-20,,Manitoba,Canada,282,0,0,Manitoba,1377619,0.000204701,0.000204701
+4-May-20,,Manitoba,Canada,283,1,1,Manitoba,1377620,0.000205427,0.000205427
+5-May-20,,Manitoba,Canada,284,1,1,Manitoba,1377621,0.000206152,0.000206152
+6-May-20,,Manitoba,Canada,286,2,2,Manitoba,1377622,0.000207604,0.000207604
+7-May-20,,Manitoba,Canada,283,-3,0,Manitoba,1377623,0.000205426,0.000205426
+8-May-20,,Manitoba,Canada,284,1,1,Manitoba,1377624,0.000206152,0.000206152
+9-May-20,,Manitoba,Canada,284,0,0,Manitoba,1377625,0.000206152,0.000206152
+10-May-20,,Manitoba,Canada,287,3,3,Manitoba,1377626,0.000208329,0.000208329
+11-May-20,,Manitoba,Canada,289,2,2,Manitoba,1377627,0.000209781,0.000209781
+12-May-20,,Manitoba,Canada,290,1,1,Manitoba,1377628,0.000210507,0.000210507
+13-May-20,,Manitoba,Canada,290,0,0,Manitoba,1377629,0.000210507,0.000210507
+14-May-20,,Manitoba,Canada,289,-1,0,Manitoba,1377630,0.000209781,0.000209781
+15-May-20,,Manitoba,Canada,289,0,0,Manitoba,1377631,0.00020978,0.00020978
+16-May-20,,Manitoba,Canada,289,0,0,Manitoba,1377632,0.00020978,0.00020978
+17-May-20,,Manitoba,Canada,289,0,0,Manitoba,1377633,0.00020978,0.00020978
+18-May-20,,Manitoba,Canada,290,1,1,Manitoba,1377634,0.000210506,0.000210506
+19-May-20,,Manitoba,Canada,290,0,0,Manitoba,1377635,0.000210506,0.000210506
+20-May-20,,Manitoba,Canada,290,0,0,Manitoba,1377636,0.000210506,0.000210506
+21-May-20,,Manitoba,Canada,290,0,0,Manitoba,1377637,0.000210505,0.000210505
+22-May-20,,Manitoba,Canada,292,2,2,Manitoba,1377638,0.000211957,0.000211957
+23-May-20,,Manitoba,Canada,292,0,0,Manitoba,1377639,0.000211957,0.000211957
+24-May-20,,Manitoba,Canada,292,0,0,Manitoba,1377640,0.000211957,0.000211957
+25-May-20,,Manitoba,Canada,292,0,0,Manitoba,1377641,0.000211957,0.000211957
+26-May-20,,Manitoba,Canada,292,0,0,Manitoba,1377642,0.000211956,0.000211956
+27-May-20,,Manitoba,Canada,292,0,0,Manitoba,1377643,0.000211956,0.000211956
+28-May-20,,Manitoba,Canada,294,2,2,Manitoba,1377644,0.000213408,0.000213408
+29-May-20,,Manitoba,Canada,294,0,0,Manitoba,1377645,0.000213408,0.000213408
+30-May-20,,Manitoba,Canada,294,0,0,Manitoba,1377646,0.000213408,0.000213408
+31-May-20,,Manitoba,Canada,295,1,1,Manitoba,1377647,0.000214133,0.000214133
+1-Jun-20,,Manitoba,Canada,295,0,0,Manitoba,1377648,0.000214133,0.000214133
+2-Jun-20,,Manitoba,Canada,297,2,2,Manitoba,1377649,0.000215585,0.000215585
+3-Jun-20,,Manitoba,Canada,298,1,1,Manitoba,1377650,0.00021631,0.00021631
+4-Jun-20,,Manitoba,Canada,298,0,0,Manitoba,1377651,0.00021631,0.00021631
+5-Jun-20,,Manitoba,Canada,300,2,2,Manitoba,1377652,0.000217762,0.000217762
+6-Jun-20,,Manitoba,Canada,300,0,0,Manitoba,1377653,0.000217762,0.000217762
+7-Jun-20,,Manitoba,Canada,300,0,0,Manitoba,1377654,0.000217761,0.000217761
+8-Jun-20,,Manitoba,Canada,300,0,0,Manitoba,1377655,0.000217761,0.000217761
+9-Jun-20,,Manitoba,Canada,300,0,0,Manitoba,1377656,0.000217761,0.000217761
+10-Jun-20,,Manitoba,Canada,300,0,0,Manitoba,1377657,0.000217761,0.000217761
+11-Jun-20,,Manitoba,Canada,300,0,0,Manitoba,1377658,0.000217761,0.000217761
+12-Jun-20,,Manitoba,Canada,301,1,1,Manitoba,1377659,0.000218487,0.000218487
+13-Jun-20,,Manitoba,Canada,303,2,2,Manitoba,1377660,0.000219938,0.000219938
+22-Jan-20,,New Brunswick,Canada,0,-303,0,New Brunswick,779993,0,0
+23-Jan-20,,New Brunswick,Canada,0,0,0,New Brunswick,779994,0,0
+24-Jan-20,,New Brunswick,Canada,0,0,0,New Brunswick,779995,0,0
+25-Jan-20,,New Brunswick,Canada,0,0,0,New Brunswick,779996,0,0
+26-Jan-20,,New Brunswick,Canada,0,0,0,New Brunswick,779997,0,0
+27-Jan-20,,New Brunswick,Canada,0,0,0,New Brunswick,779998,0,0
+28-Jan-20,,New Brunswick,Canada,0,0,0,New Brunswick,779999,0,0
+29-Jan-20,,New Brunswick,Canada,0,0,0,New Brunswick,780000,0,0
+30-Jan-20,,New Brunswick,Canada,0,0,0,New Brunswick,780001,0,0
+31-Jan-20,,New Brunswick,Canada,0,0,0,New Brunswick,780002,0,0
+1-Feb-20,,New Brunswick,Canada,0,0,0,New Brunswick,780003,0,0
+2-Feb-20,,New Brunswick,Canada,0,0,0,New Brunswick,780004,0,0
+3-Feb-20,,New Brunswick,Canada,0,0,0,New Brunswick,780005,0,0
+4-Feb-20,,New Brunswick,Canada,0,0,0,New Brunswick,780006,0,0
+5-Feb-20,,New Brunswick,Canada,0,0,0,New Brunswick,780007,0,0
+6-Feb-20,,New Brunswick,Canada,0,0,0,New Brunswick,780008,0,0
+7-Feb-20,,New Brunswick,Canada,0,0,0,New Brunswick,780009,0,0
+8-Feb-20,,New Brunswick,Canada,0,0,0,New Brunswick,780010,0,0
+9-Feb-20,,New Brunswick,Canada,0,0,0,New Brunswick,780011,0,0
+10-Feb-20,,New Brunswick,Canada,0,0,0,New Brunswick,780012,0,0
+11-Feb-20,,New Brunswick,Canada,0,0,0,New Brunswick,780013,0,0
+12-Feb-20,,New Brunswick,Canada,0,0,0,New Brunswick,780014,0,0
+13-Feb-20,,New Brunswick,Canada,0,0,0,New Brunswick,780015,0,0
+14-Feb-20,,New Brunswick,Canada,0,0,0,New Brunswick,780016,0,0
+15-Feb-20,,New Brunswick,Canada,0,0,0,New Brunswick,780017,0,0
+16-Feb-20,,New Brunswick,Canada,0,0,0,New Brunswick,780018,0,0
+17-Feb-20,,New Brunswick,Canada,0,0,0,New Brunswick,780019,0,0
+18-Feb-20,,New Brunswick,Canada,0,0,0,New Brunswick,780020,0,0
+19-Feb-20,,New Brunswick,Canada,0,0,0,New Brunswick,780021,0,0
+20-Feb-20,,New Brunswick,Canada,0,0,0,New Brunswick,780022,0,0
+21-Feb-20,,New Brunswick,Canada,0,0,0,New Brunswick,780023,0,0
+22-Feb-20,,New Brunswick,Canada,0,0,0,New Brunswick,780024,0,0
+23-Feb-20,,New Brunswick,Canada,0,0,0,New Brunswick,780025,0,0
+24-Feb-20,,New Brunswick,Canada,0,0,0,New Brunswick,780026,0,0
+25-Feb-20,,New Brunswick,Canada,0,0,0,New Brunswick,780027,0,0
+26-Feb-20,,New Brunswick,Canada,0,0,0,New Brunswick,780028,0,0
+27-Feb-20,,New Brunswick,Canada,0,0,0,New Brunswick,780029,0,0
+28-Feb-20,,New Brunswick,Canada,0,0,0,New Brunswick,780030,0,0
+29-Feb-20,,New Brunswick,Canada,0,0,0,New Brunswick,780031,0,0
+1-Mar-20,,New Brunswick,Canada,0,0,0,New Brunswick,780032,0,0
+2-Mar-20,,New Brunswick,Canada,0,0,0,New Brunswick,780033,0,0
+3-Mar-20,,New Brunswick,Canada,0,0,0,New Brunswick,780034,0,0
+4-Mar-20,,New Brunswick,Canada,0,0,0,New Brunswick,780035,0,0
+5-Mar-20,,New Brunswick,Canada,0,0,0,New Brunswick,780036,0,0
+6-Mar-20,,New Brunswick,Canada,0,0,0,New Brunswick,780037,0,0
+7-Mar-20,,New Brunswick,Canada,0,0,0,New Brunswick,780038,0,0
+8-Mar-20,,New Brunswick,Canada,0,0,0,New Brunswick,780039,0,0
+9-Mar-20,,New Brunswick,Canada,0,0,0,New Brunswick,780040,0,0
+10-Mar-20,,New Brunswick,Canada,0,0,0,New Brunswick,780041,0,0
+11-Mar-20,,New Brunswick,Canada,1,1,1,New Brunswick,780042,1.28E-06,1.28E-06
+12-Mar-20,,New Brunswick,Canada,1,0,0,New Brunswick,780043,1.28E-06,1.28E-06
+13-Mar-20,,New Brunswick,Canada,1,0,0,New Brunswick,780044,1.28E-06,1.28E-06
+14-Mar-20,,New Brunswick,Canada,1,0,0,New Brunswick,780045,1.28E-06,1.28E-06
+15-Mar-20,,New Brunswick,Canada,2,1,1,New Brunswick,780046,2.56E-06,2.56E-06
+16-Mar-20,,New Brunswick,Canada,6,4,4,New Brunswick,780047,7.69E-06,7.69E-06
+17-Mar-20,,New Brunswick,Canada,8,2,2,New Brunswick,780048,1.03E-05,1.03E-05
+18-Mar-20,,New Brunswick,Canada,11,3,3,New Brunswick,780049,1.41E-05,1.41E-05
+19-Mar-20,,New Brunswick,Canada,11,0,0,New Brunswick,780050,1.41E-05,1.41E-05
+20-Mar-20,,New Brunswick,Canada,11,0,0,New Brunswick,780051,1.41E-05,1.41E-05
+21-Mar-20,,New Brunswick,Canada,17,6,6,New Brunswick,780052,2.18E-05,2.18E-05
+22-Mar-20,,New Brunswick,Canada,17,0,0,New Brunswick,780053,2.18E-05,2.18E-05
+23-Mar-20,,New Brunswick,Canada,17,0,0,New Brunswick,780054,2.18E-05,2.18E-05
+24-Mar-20,,New Brunswick,Canada,18,1,1,New Brunswick,780055,2.31E-05,2.31E-05
+25-Mar-20,,New Brunswick,Canada,18,0,0,New Brunswick,780056,2.31E-05,2.31E-05
+26-Mar-20,,New Brunswick,Canada,33,15,15,New Brunswick,780057,4.23E-05,4.23E-05
+27-Mar-20,,New Brunswick,Canada,45,12,12,New Brunswick,780058,5.77E-05,5.77E-05
+28-Mar-20,,New Brunswick,Canada,51,6,6,New Brunswick,780059,6.54E-05,6.54E-05
+29-Mar-20,,New Brunswick,Canada,66,15,15,New Brunswick,780060,8.46E-05,8.46E-05
+30-Mar-20,,New Brunswick,Canada,68,2,2,New Brunswick,780061,8.72E-05,8.72E-05
+31-Mar-20,,New Brunswick,Canada,70,2,2,New Brunswick,780062,8.97E-05,8.97E-05
+1-Apr-20,,New Brunswick,Canada,81,11,11,New Brunswick,780063,0.000103838,0.000103838
+2-Apr-20,,New Brunswick,Canada,91,10,10,New Brunswick,780064,0.000116657,0.000116657
+3-Apr-20,,New Brunswick,Canada,91,0,0,New Brunswick,780065,0.000116657,0.000116657
+4-Apr-20,,New Brunswick,Canada,91,0,0,New Brunswick,780066,0.000116657,0.000116657
+5-Apr-20,,New Brunswick,Canada,98,7,7,New Brunswick,780067,0.00012563,0.00012563
+6-Apr-20,,New Brunswick,Canada,103,5,5,New Brunswick,780068,0.00013204,0.00013204
+7-Apr-20,,New Brunswick,Canada,105,2,2,New Brunswick,780069,0.000134603,0.000134603
+8-Apr-20,,New Brunswick,Canada,105,0,0,New Brunswick,780070,0.000134603,0.000134603
+9-Apr-20,,New Brunswick,Canada,108,3,3,New Brunswick,780071,0.000138449,0.000138449
+10-Apr-20,,New Brunswick,Canada,112,4,4,New Brunswick,780072,0.000143576,0.000143576
+11-Apr-20,,New Brunswick,Canada,112,0,0,New Brunswick,780073,0.000143576,0.000143576
+12-Apr-20,,New Brunswick,Canada,114,2,2,New Brunswick,780074,0.00014614,0.00014614
+13-Apr-20,,New Brunswick,Canada,116,2,2,New Brunswick,780075,0.000148704,0.000148704
+14-Apr-20,,New Brunswick,Canada,116,0,0,New Brunswick,780076,0.000148703,0.000148703
+15-Apr-20,,New Brunswick,Canada,117,1,1,New Brunswick,780077,0.000149985,0.000149985
+16-Apr-20,,New Brunswick,Canada,117,0,0,New Brunswick,780078,0.000149985,0.000149985
+17-Apr-20,,New Brunswick,Canada,117,0,0,New Brunswick,780079,0.000149985,0.000149985
+18-Apr-20,,New Brunswick,Canada,117,0,0,New Brunswick,780080,0.000149985,0.000149985
+19-Apr-20,,New Brunswick,Canada,118,1,1,New Brunswick,780081,0.000151266,0.000151266
+20-Apr-20,,New Brunswick,Canada,118,0,0,New Brunswick,780082,0.000151266,0.000151266
+21-Apr-20,,New Brunswick,Canada,118,0,0,New Brunswick,780083,0.000151266,0.000151266
+22-Apr-20,,New Brunswick,Canada,118,0,0,New Brunswick,780084,0.000151266,0.000151266
+23-Apr-20,,New Brunswick,Canada,118,0,0,New Brunswick,780085,0.000151266,0.000151266
+24-Apr-20,,New Brunswick,Canada,118,0,0,New Brunswick,780086,0.000151265,0.000151265
+25-Apr-20,,New Brunswick,Canada,118,0,0,New Brunswick,780087,0.000151265,0.000151265
+26-Apr-20,,New Brunswick,Canada,118,0,0,New Brunswick,780088,0.000151265,0.000151265
+27-Apr-20,,New Brunswick,Canada,118,0,0,New Brunswick,780089,0.000151265,0.000151265
+28-Apr-20,,New Brunswick,Canada,118,0,0,New Brunswick,780090,0.000151265,0.000151265
+29-Apr-20,,New Brunswick,Canada,118,0,0,New Brunswick,780091,0.000151264,0.000151264
+30-Apr-20,,New Brunswick,Canada,118,0,0,New Brunswick,780092,0.000151264,0.000151264
+1-May-20,,New Brunswick,Canada,118,0,0,New Brunswick,780093,0.000151264,0.000151264
+2-May-20,,New Brunswick,Canada,118,0,0,New Brunswick,780094,0.000151264,0.000151264
+3-May-20,,New Brunswick,Canada,118,0,0,New Brunswick,780095,0.000151264,0.000151264
+4-May-20,,New Brunswick,Canada,118,0,0,New Brunswick,780096,0.000151263,0.000151263
+5-May-20,,New Brunswick,Canada,119,1,1,New Brunswick,780097,0.000152545,0.000152545
+6-May-20,,New Brunswick,Canada,120,1,1,New Brunswick,780098,0.000153827,0.000153827
+7-May-20,,New Brunswick,Canada,120,0,0,New Brunswick,780099,0.000153827,0.000153827
+8-May-20,,New Brunswick,Canada,120,0,0,New Brunswick,780100,0.000153826,0.000153826
+9-May-20,,New Brunswick,Canada,120,0,0,New Brunswick,780101,0.000153826,0.000153826
+10-May-20,,New Brunswick,Canada,120,0,0,New Brunswick,780102,0.000153826,0.000153826
+11-May-20,,New Brunswick,Canada,120,0,0,New Brunswick,780103,0.000153826,0.000153826
+12-May-20,,New Brunswick,Canada,120,0,0,New Brunswick,780104,0.000153826,0.000153826
+13-May-20,,New Brunswick,Canada,120,0,0,New Brunswick,780105,0.000153825,0.000153825
+14-May-20,,New Brunswick,Canada,120,0,0,New Brunswick,780106,0.000153825,0.000153825
+15-May-20,,New Brunswick,Canada,120,0,0,New Brunswick,780107,0.000153825,0.000153825
+16-May-20,,New Brunswick,Canada,120,0,0,New Brunswick,780108,0.000153825,0.000153825
+17-May-20,,New Brunswick,Canada,120,0,0,New Brunswick,780109,0.000153825,0.000153825
+18-May-20,,New Brunswick,Canada,120,0,0,New Brunswick,780110,0.000153824,0.000153824
+19-May-20,,New Brunswick,Canada,120,0,0,New Brunswick,780111,0.000153824,0.000153824
+20-May-20,,New Brunswick,Canada,120,0,0,New Brunswick,780112,0.000153824,0.000153824
+21-May-20,,New Brunswick,Canada,121,1,1,New Brunswick,780113,0.000155106,0.000155106
+22-May-20,,New Brunswick,Canada,121,0,0,New Brunswick,780114,0.000155106,0.000155106
+23-May-20,,New Brunswick,Canada,121,0,0,New Brunswick,780115,0.000155105,0.000155105
+24-May-20,,New Brunswick,Canada,121,0,0,New Brunswick,780116,0.000155105,0.000155105
+25-May-20,,New Brunswick,Canada,121,0,0,New Brunswick,780117,0.000155105,0.000155105
+26-May-20,,New Brunswick,Canada,122,1,1,New Brunswick,780118,0.000156387,0.000156387
+27-May-20,,New Brunswick,Canada,123,1,1,New Brunswick,780119,0.000157668,0.000157668
+28-May-20,,New Brunswick,Canada,126,3,3,New Brunswick,780120,0.000161514,0.000161514
+29-May-20,,New Brunswick,Canada,128,2,2,New Brunswick,780121,0.000164077,0.000164077
+30-May-20,,New Brunswick,Canada,129,1,1,New Brunswick,780122,0.000165359,0.000165359
+31-May-20,,New Brunswick,Canada,132,3,3,New Brunswick,780123,0.000169204,0.000169204
+1-Jun-20,,New Brunswick,Canada,132,0,0,New Brunswick,780124,0.000169204,0.000169204
+2-Jun-20,,New Brunswick,Canada,133,1,1,New Brunswick,780125,0.000170485,0.000170485
+3-Jun-20,,New Brunswick,Canada,135,2,2,New Brunswick,780126,0.000173049,0.000173049
+4-Jun-20,,New Brunswick,Canada,136,1,1,New Brunswick,780127,0.000174331,0.000174331
+5-Jun-20,,New Brunswick,Canada,136,0,0,New Brunswick,780128,0.00017433,0.00017433
+6-Jun-20,,New Brunswick,Canada,136,0,0,New Brunswick,780129,0.00017433,0.00017433
+7-Jun-20,,New Brunswick,Canada,137,1,1,New Brunswick,780130,0.000175612,0.000175612
+8-Jun-20,,New Brunswick,Canada,146,9,9,New Brunswick,780131,0.000187148,0.000187148
+9-Jun-20,,New Brunswick,Canada,147,1,1,New Brunswick,780132,0.00018843,0.00018843
+10-Jun-20,,New Brunswick,Canada,151,4,4,New Brunswick,780133,0.000193557,0.000193557
+11-Jun-20,,New Brunswick,Canada,153,2,2,New Brunswick,780134,0.00019612,0.00019612
+12-Jun-20,,New Brunswick,Canada,154,1,1,New Brunswick,780135,0.000197402,0.000197402
+13-Jun-20,,New Brunswick,Canada,157,3,3,New Brunswick,780136,0.000201247,0.000201247
+22-Jan-20,,Newfoundland and Labrador,Canada,0,-157,0,Newfoundland and Labrador,521365,0,0
+23-Jan-20,,Newfoundland and Labrador,Canada,0,0,0,Newfoundland and Labrador,521366,0,0
+24-Jan-20,,Newfoundland and Labrador,Canada,0,0,0,Newfoundland and Labrador,521367,0,0
+25-Jan-20,,Newfoundland and Labrador,Canada,0,0,0,Newfoundland and Labrador,521368,0,0
+26-Jan-20,,Newfoundland and Labrador,Canada,0,0,0,Newfoundland and Labrador,521369,0,0
+27-Jan-20,,Newfoundland and Labrador,Canada,0,0,0,Newfoundland and Labrador,521370,0,0
+28-Jan-20,,Newfoundland and Labrador,Canada,0,0,0,Newfoundland and Labrador,521371,0,0
+29-Jan-20,,Newfoundland and Labrador,Canada,0,0,0,Newfoundland and Labrador,521372,0,0
+30-Jan-20,,Newfoundland and Labrador,Canada,0,0,0,Newfoundland and Labrador,521373,0,0
+31-Jan-20,,Newfoundland and Labrador,Canada,0,0,0,Newfoundland and Labrador,521374,0,0
+1-Feb-20,,Newfoundland and Labrador,Canada,0,0,0,Newfoundland and Labrador,521375,0,0
+2-Feb-20,,Newfoundland and Labrador,Canada,0,0,0,Newfoundland and Labrador,521376,0,0
+3-Feb-20,,Newfoundland and Labrador,Canada,0,0,0,Newfoundland and Labrador,521377,0,0
+4-Feb-20,,Newfoundland and Labrador,Canada,0,0,0,Newfoundland and Labrador,521378,0,0
+5-Feb-20,,Newfoundland and Labrador,Canada,0,0,0,Newfoundland and Labrador,521379,0,0
+6-Feb-20,,Newfoundland and Labrador,Canada,0,0,0,Newfoundland and Labrador,521380,0,0
+7-Feb-20,,Newfoundland and Labrador,Canada,0,0,0,Newfoundland and Labrador,521381,0,0
+8-Feb-20,,Newfoundland and Labrador,Canada,0,0,0,Newfoundland and Labrador,521382,0,0
+9-Feb-20,,Newfoundland and Labrador,Canada,0,0,0,Newfoundland and Labrador,521383,0,0
+10-Feb-20,,Newfoundland and Labrador,Canada,0,0,0,Newfoundland and Labrador,521384,0,0
+11-Feb-20,,Newfoundland and Labrador,Canada,0,0,0,Newfoundland and Labrador,521385,0,0
+12-Feb-20,,Newfoundland and Labrador,Canada,0,0,0,Newfoundland and Labrador,521386,0,0
+13-Feb-20,,Newfoundland and Labrador,Canada,0,0,0,Newfoundland and Labrador,521387,0,0
+14-Feb-20,,Newfoundland and Labrador,Canada,0,0,0,Newfoundland and Labrador,521388,0,0
+15-Feb-20,,Newfoundland and Labrador,Canada,0,0,0,Newfoundland and Labrador,521389,0,0
+16-Feb-20,,Newfoundland and Labrador,Canada,0,0,0,Newfoundland and Labrador,521390,0,0
+17-Feb-20,,Newfoundland and Labrador,Canada,0,0,0,Newfoundland and Labrador,521391,0,0
+18-Feb-20,,Newfoundland and Labrador,Canada,0,0,0,Newfoundland and Labrador,521392,0,0
+19-Feb-20,,Newfoundland and Labrador,Canada,0,0,0,Newfoundland and Labrador,521393,0,0
+20-Feb-20,,Newfoundland and Labrador,Canada,0,0,0,Newfoundland and Labrador,521394,0,0
+21-Feb-20,,Newfoundland and Labrador,Canada,0,0,0,Newfoundland and Labrador,521395,0,0
+22-Feb-20,,Newfoundland and Labrador,Canada,0,0,0,Newfoundland and Labrador,521396,0,0
+23-Feb-20,,Newfoundland and Labrador,Canada,0,0,0,Newfoundland and Labrador,521397,0,0
+24-Feb-20,,Newfoundland and Labrador,Canada,0,0,0,Newfoundland and Labrador,521398,0,0
+25-Feb-20,,Newfoundland and Labrador,Canada,0,0,0,Newfoundland and Labrador,521399,0,0
+26-Feb-20,,Newfoundland and Labrador,Canada,0,0,0,Newfoundland and Labrador,521400,0,0
+27-Feb-20,,Newfoundland and Labrador,Canada,0,0,0,Newfoundland and Labrador,521401,0,0
+28-Feb-20,,Newfoundland and Labrador,Canada,0,0,0,Newfoundland and Labrador,521402,0,0
+29-Feb-20,,Newfoundland and Labrador,Canada,0,0,0,Newfoundland and Labrador,521403,0,0
+1-Mar-20,,Newfoundland and Labrador,Canada,0,0,0,Newfoundland and Labrador,521404,0,0
+2-Mar-20,,Newfoundland and Labrador,Canada,0,0,0,Newfoundland and Labrador,521405,0,0
+3-Mar-20,,Newfoundland and Labrador,Canada,0,0,0,Newfoundland and Labrador,521406,0,0
+4-Mar-20,,Newfoundland and Labrador,Canada,0,0,0,Newfoundland and Labrador,521407,0,0
+5-Mar-20,,Newfoundland and Labrador,Canada,0,0,0,Newfoundland and Labrador,521408,0,0
+6-Mar-20,,Newfoundland and Labrador,Canada,0,0,0,Newfoundland and Labrador,521409,0,0
+7-Mar-20,,Newfoundland and Labrador,Canada,0,0,0,Newfoundland and Labrador,521410,0,0
+8-Mar-20,,Newfoundland and Labrador,Canada,0,0,0,Newfoundland and Labrador,521411,0,0
+9-Mar-20,,Newfoundland and Labrador,Canada,0,0,0,Newfoundland and Labrador,521412,0,0
+10-Mar-20,,Newfoundland and Labrador,Canada,0,0,0,Newfoundland and Labrador,521413,0,0
+11-Mar-20,,Newfoundland and Labrador,Canada,0,0,0,Newfoundland and Labrador,521414,0,0
+12-Mar-20,,Newfoundland and Labrador,Canada,0,0,0,Newfoundland and Labrador,521415,0,0
+13-Mar-20,,Newfoundland and Labrador,Canada,0,0,0,Newfoundland and Labrador,521416,0,0
+14-Mar-20,,Newfoundland and Labrador,Canada,0,0,0,Newfoundland and Labrador,521417,0,0
+15-Mar-20,,Newfoundland and Labrador,Canada,1,1,1,Newfoundland and Labrador,521418,1.92E-06,1.92E-06
+16-Mar-20,,Newfoundland and Labrador,Canada,1,0,0,Newfoundland and Labrador,521419,1.92E-06,1.92E-06
+17-Mar-20,,Newfoundland and Labrador,Canada,3,2,2,Newfoundland and Labrador,521420,5.75E-06,5.75E-06
+18-Mar-20,,Newfoundland and Labrador,Canada,3,0,0,Newfoundland and Labrador,521421,5.75E-06,5.75E-06
+19-Mar-20,,Newfoundland and Labrador,Canada,3,0,0,Newfoundland and Labrador,521422,5.75E-06,5.75E-06
+20-Mar-20,,Newfoundland and Labrador,Canada,4,1,1,Newfoundland and Labrador,521423,7.67E-06,7.67E-06
+21-Mar-20,,Newfoundland and Labrador,Canada,6,2,2,Newfoundland and Labrador,521424,1.15E-05,1.15E-05
+22-Mar-20,,Newfoundland and Labrador,Canada,9,3,3,Newfoundland and Labrador,521425,1.73E-05,1.73E-05
+23-Mar-20,,Newfoundland and Labrador,Canada,24,15,15,Newfoundland and Labrador,521426,4.60E-05,4.60E-05
+24-Mar-20,,Newfoundland and Labrador,Canada,35,11,11,Newfoundland and Labrador,521427,6.71E-05,6.71E-05
+25-Mar-20,,Newfoundland and Labrador,Canada,35,0,0,Newfoundland and Labrador,521428,6.71E-05,6.71E-05
+26-Mar-20,,Newfoundland and Labrador,Canada,82,47,47,Newfoundland and Labrador,521429,0.00015726,0.00015726
+27-Mar-20,,Newfoundland and Labrador,Canada,102,20,20,Newfoundland and Labrador,521430,0.000195616,0.000195616
+28-Mar-20,,Newfoundland and Labrador,Canada,120,18,18,Newfoundland and Labrador,521431,0.000230136,0.000230136
+29-Mar-20,,Newfoundland and Labrador,Canada,135,15,15,Newfoundland and Labrador,521432,0.000258902,0.000258902
+30-Mar-20,,Newfoundland and Labrador,Canada,148,13,13,Newfoundland and Labrador,521433,0.000283833,0.000283833
+31-Mar-20,,Newfoundland and Labrador,Canada,152,4,4,Newfoundland and Labrador,521434,0.000291504,0.000291504
+1-Apr-20,,Newfoundland and Labrador,Canada,175,23,23,Newfoundland and Labrador,521435,0.000335612,0.000335612
+2-Apr-20,,Newfoundland and Labrador,Canada,183,8,8,Newfoundland and Labrador,521436,0.000350954,0.000350954
+3-Apr-20,,Newfoundland and Labrador,Canada,195,12,12,Newfoundland and Labrador,521437,0.000373967,0.000373967
+4-Apr-20,,Newfoundland and Labrador,Canada,195,0,0,Newfoundland and Labrador,521438,0.000373966,0.000373966
+5-Apr-20,,Newfoundland and Labrador,Canada,217,22,22,Newfoundland and Labrador,521439,0.000416156,0.000416156
+6-Apr-20,,Newfoundland and Labrador,Canada,226,9,9,Newfoundland and Labrador,521440,0.000433415,0.000433415
+7-Apr-20,,Newfoundland and Labrador,Canada,228,2,2,Newfoundland and Labrador,521441,0.00043725,0.00043725
+8-Apr-20,,Newfoundland and Labrador,Canada,228,0,0,Newfoundland and Labrador,521442,0.000437249,0.000437249
+9-Apr-20,,Newfoundland and Labrador,Canada,232,4,4,Newfoundland and Labrador,521443,0.000444919,0.000444919
+10-Apr-20,,Newfoundland and Labrador,Canada,239,7,7,Newfoundland and Labrador,521444,0.000458343,0.000458343
+11-Apr-20,,Newfoundland and Labrador,Canada,241,2,2,Newfoundland and Labrador,521445,0.000462177,0.000462177
+12-Apr-20,,Newfoundland and Labrador,Canada,242,1,1,Newfoundland and Labrador,521446,0.000464094,0.000464094
+13-Apr-20,,Newfoundland and Labrador,Canada,244,2,2,Newfoundland and Labrador,521447,0.000467929,0.000467929
+14-Apr-20,,Newfoundland and Labrador,Canada,244,0,0,Newfoundland and Labrador,521448,0.000467928,0.000467928
+15-Apr-20,,Newfoundland and Labrador,Canada,247,3,3,Newfoundland and Labrador,521449,0.00047368,0.00047368
+16-Apr-20,,Newfoundland and Labrador,Canada,252,5,5,Newfoundland and Labrador,521450,0.000483268,0.000483268
+17-Apr-20,,Newfoundland and Labrador,Canada,256,4,4,Newfoundland and Labrador,521451,0.000490938,0.000490938
+18-Apr-20,,Newfoundland and Labrador,Canada,257,1,1,Newfoundland and Labrador,521452,0.000492855,0.000492855
+19-Apr-20,,Newfoundland and Labrador,Canada,257,0,0,Newfoundland and Labrador,521453,0.000492854,0.000492854
+20-Apr-20,,Newfoundland and Labrador,Canada,257,0,0,Newfoundland and Labrador,521454,0.000492853,0.000492853
+21-Apr-20,,Newfoundland and Labrador,Canada,257,0,0,Newfoundland and Labrador,521455,0.000492852,0.000492852
+22-Apr-20,,Newfoundland and Labrador,Canada,256,-1,0,Newfoundland and Labrador,521456,0.000490933,0.000490933
+23-Apr-20,,Newfoundland and Labrador,Canada,256,0,0,Newfoundland and Labrador,521457,0.000490932,0.000490932
+24-Apr-20,,Newfoundland and Labrador,Canada,256,0,0,Newfoundland and Labrador,521458,0.000490931,0.000490931
+25-Apr-20,,Newfoundland and Labrador,Canada,257,1,1,Newfoundland and Labrador,521459,0.000492848,0.000492848
+26-Apr-20,,Newfoundland and Labrador,Canada,258,1,1,Newfoundland and Labrador,521460,0.000494765,0.000494765
+27-Apr-20,,Newfoundland and Labrador,Canada,258,0,0,Newfoundland and Labrador,521461,0.000494764,0.000494764
+28-Apr-20,,Newfoundland and Labrador,Canada,258,0,0,Newfoundland and Labrador,521462,0.000494763,0.000494763
+29-Apr-20,,Newfoundland and Labrador,Canada,258,0,0,Newfoundland and Labrador,521463,0.000494762,0.000494762
+30-Apr-20,,Newfoundland and Labrador,Canada,258,0,0,Newfoundland and Labrador,521464,0.000494761,0.000494761
+1-May-20,,Newfoundland and Labrador,Canada,259,1,1,Newfoundland and Labrador,521465,0.000496678,0.000496678
+2-May-20,,Newfoundland and Labrador,Canada,259,0,0,Newfoundland and Labrador,521466,0.000496677,0.000496677
+3-May-20,,Newfoundland and Labrador,Canada,259,0,0,Newfoundland and Labrador,521467,0.000496676,0.000496676
+4-May-20,,Newfoundland and Labrador,Canada,259,0,0,Newfoundland and Labrador,521468,0.000496675,0.000496675
+5-May-20,,Newfoundland and Labrador,Canada,259,0,0,Newfoundland and Labrador,521469,0.000496674,0.000496674
+6-May-20,,Newfoundland and Labrador,Canada,259,0,0,Newfoundland and Labrador,521470,0.000496673,0.000496673
+7-May-20,,Newfoundland and Labrador,Canada,261,2,2,Newfoundland and Labrador,521471,0.000500507,0.000500507
+8-May-20,,Newfoundland and Labrador,Canada,261,0,0,Newfoundland and Labrador,521472,0.000500506,0.000500506
+9-May-20,,Newfoundland and Labrador,Canada,261,0,0,Newfoundland and Labrador,521473,0.000500505,0.000500505
+10-May-20,,Newfoundland and Labrador,Canada,261,0,0,Newfoundland and Labrador,521474,0.000500504,0.000500504
+11-May-20,,Newfoundland and Labrador,Canada,261,0,0,Newfoundland and Labrador,521475,0.000500503,0.000500503
+12-May-20,,Newfoundland and Labrador,Canada,261,0,0,Newfoundland and Labrador,521476,0.000500502,0.000500502
+13-May-20,,Newfoundland and Labrador,Canada,261,0,0,Newfoundland and Labrador,521477,0.000500501,0.000500501
+14-May-20,,Newfoundland and Labrador,Canada,261,0,0,Newfoundland and Labrador,521478,0.000500501,0.000500501
+15-May-20,,Newfoundland and Labrador,Canada,260,-1,0,Newfoundland and Labrador,521479,0.000498582,0.000498582
+16-May-20,,Newfoundland and Labrador,Canada,260,0,0,Newfoundland and Labrador,521480,0.000498581,0.000498581
+17-May-20,,Newfoundland and Labrador,Canada,260,0,0,Newfoundland and Labrador,521481,0.00049858,0.00049858
+18-May-20,,Newfoundland and Labrador,Canada,260,0,0,Newfoundland and Labrador,521482,0.000498579,0.000498579
+19-May-20,,Newfoundland and Labrador,Canada,260,0,0,Newfoundland and Labrador,521483,0.000498578,0.000498578
+20-May-20,,Newfoundland and Labrador,Canada,260,0,0,Newfoundland and Labrador,521484,0.000498577,0.000498577
+21-May-20,,Newfoundland and Labrador,Canada,260,0,0,Newfoundland and Labrador,521485,0.000498576,0.000498576
+22-May-20,,Newfoundland and Labrador,Canada,260,0,0,Newfoundland and Labrador,521486,0.000498575,0.000498575
+23-May-20,,Newfoundland and Labrador,Canada,260,0,0,Newfoundland and Labrador,521487,0.000498574,0.000498574
+24-May-20,,Newfoundland and Labrador,Canada,260,0,0,Newfoundland and Labrador,521488,0.000498573,0.000498573
+25-May-20,,Newfoundland and Labrador,Canada,260,0,0,Newfoundland and Labrador,521489,0.000498572,0.000498572
+26-May-20,,Newfoundland and Labrador,Canada,260,0,0,Newfoundland and Labrador,521490,0.000498571,0.000498571
+27-May-20,,Newfoundland and Labrador,Canada,260,0,0,Newfoundland and Labrador,521491,0.00049857,0.00049857
+28-May-20,,Newfoundland and Labrador,Canada,261,1,1,Newfoundland and Labrador,521492,0.000500487,0.000500487
+29-May-20,,Newfoundland and Labrador,Canada,261,0,0,Newfoundland and Labrador,521493,0.000500486,0.000500486
+30-May-20,,Newfoundland and Labrador,Canada,261,0,0,Newfoundland and Labrador,521494,0.000500485,0.000500485
+31-May-20,,Newfoundland and Labrador,Canada,261,0,0,Newfoundland and Labrador,521495,0.000500484,0.000500484
+1-Jun-20,,Newfoundland and Labrador,Canada,261,0,0,Newfoundland and Labrador,521496,0.000500483,0.000500483
+2-Jun-20,,Newfoundland and Labrador,Canada,261,0,0,Newfoundland and Labrador,521497,0.000500482,0.000500482
+3-Jun-20,,Newfoundland and Labrador,Canada,261,0,0,Newfoundland and Labrador,521498,0.000500481,0.000500481
+4-Jun-20,,Newfoundland and Labrador,Canada,261,0,0,Newfoundland and Labrador,521499,0.00050048,0.00050048
+5-Jun-20,,Newfoundland and Labrador,Canada,261,0,0,Newfoundland and Labrador,521500,0.000500479,0.000500479
+6-Jun-20,,Newfoundland and Labrador,Canada,261,0,0,Newfoundland and Labrador,521501,0.000500478,0.000500478
+7-Jun-20,,Newfoundland and Labrador,Canada,261,0,0,Newfoundland and Labrador,521502,0.000500477,0.000500477
+8-Jun-20,,Newfoundland and Labrador,Canada,261,0,0,Newfoundland and Labrador,521503,0.000500477,0.000500477
+9-Jun-20,,Newfoundland and Labrador,Canada,261,0,0,Newfoundland and Labrador,521504,0.000500476,0.000500476
+10-Jun-20,,Newfoundland and Labrador,Canada,261,0,0,Newfoundland and Labrador,521505,0.000500475,0.000500475
+11-Jun-20,,Newfoundland and Labrador,Canada,261,0,0,Newfoundland and Labrador,521506,0.000500474,0.000500474
+12-Jun-20,,Newfoundland and Labrador,Canada,261,0,0,Newfoundland and Labrador,521507,0.000500473,0.000500473
+13-Jun-20,,Newfoundland and Labrador,Canada,261,0,0,Newfoundland and Labrador,521508,0.000500472,0.000500472
+22-Jan-20,,Northwest Territories,Canada,0,0,0,Northwest Territories,41078,0,0
+22-Jan-20,,Northwest Territories,Canada,0,-5,0,Northwest Territories,44904,0,0
+23-Jan-20,,Northwest Territories,Canada,0,0,0,Northwest Territories,44905,0,0
+23-Jan-20,,Northwest Territories,Canada,0,0,0,Northwest Territories,44906,0,0
+24-Jan-20,,Northwest Territories,Canada,0,0,0,Northwest Territories,44907,0,0
+24-Jan-20,,Northwest Territories,Canada,0,0,0,Northwest Territories,44908,0,0
+25-Jan-20,,Northwest Territories,Canada,0,0,0,Northwest Territories,44909,0,0
+25-Jan-20,,Northwest Territories,Canada,0,0,0,Northwest Territories,44910,0,0
+26-Jan-20,,Northwest Territories,Canada,0,0,0,Northwest Territories,44911,0,0
+26-Jan-20,,Northwest Territories,Canada,0,0,0,Northwest Territories,44912,0,0
+27-Jan-20,,Northwest Territories,Canada,0,0,0,Northwest Territories,44913,0,0
+27-Jan-20,,Northwest Territories,Canada,0,0,0,Northwest Territories,44914,0,0
+28-Jan-20,,Northwest Territories,Canada,0,0,0,Northwest Territories,44915,0,0
+28-Jan-20,,Northwest Territories,Canada,0,0,0,Northwest Territories,44916,0,0
+29-Jan-20,,Northwest Territories,Canada,0,0,0,Northwest Territories,44917,0,0
+29-Jan-20,,Northwest Territories,Canada,0,0,0,Northwest Territories,44918,0,0
+30-Jan-20,,Northwest Territories,Canada,0,0,0,Northwest Territories,44919,0,0
+30-Jan-20,,Northwest Territories,Canada,0,0,0,Northwest Territories,44920,0,0
+31-Jan-20,,Northwest Territories,Canada,0,0,0,Northwest Territories,44921,0,0
+31-Jan-20,,Northwest Territories,Canada,0,0,0,Northwest Territories,44922,0,0
+1-Feb-20,,Northwest Territories,Canada,0,0,0,Northwest Territories,44923,0,0
+1-Feb-20,,Northwest Territories,Canada,0,0,0,Northwest Territories,44924,0,0
+2-Feb-20,,Northwest Territories,Canada,0,0,0,Northwest Territories,44925,0,0
+2-Feb-20,,Northwest Territories,Canada,0,0,0,Northwest Territories,44926,0,0
+3-Feb-20,,Northwest Territories,Canada,0,0,0,Northwest Territories,44927,0,0
+3-Feb-20,,Northwest Territories,Canada,0,0,0,Northwest Territories,44928,0,0
+4-Feb-20,,Northwest Territories,Canada,0,0,0,Northwest Territories,44929,0,0
+4-Feb-20,,Northwest Territories,Canada,0,0,0,Northwest Territories,44930,0,0
+5-Feb-20,,Northwest Territories,Canada,0,0,0,Northwest Territories,44931,0,0
+5-Feb-20,,Northwest Territories,Canada,0,0,0,Northwest Territories,44932,0,0
+6-Feb-20,,Northwest Territories,Canada,0,0,0,Northwest Territories,44933,0,0
+6-Feb-20,,Northwest Territories,Canada,0,0,0,Northwest Territories,44934,0,0
+7-Feb-20,,Northwest Territories,Canada,0,0,0,Northwest Territories,44935,0,0
+7-Feb-20,,Northwest Territories,Canada,0,0,0,Northwest Territories,44936,0,0
+8-Feb-20,,Northwest Territories,Canada,0,0,0,Northwest Territories,44937,0,0
+8-Feb-20,,Northwest Territories,Canada,0,0,0,Northwest Territories,44938,0,0
+9-Feb-20,,Northwest Territories,Canada,0,0,0,Northwest Territories,44939,0,0
+9-Feb-20,,Northwest Territories,Canada,0,0,0,Northwest Territories,44940,0,0
+10-Feb-20,,Northwest Territories,Canada,0,0,0,Northwest Territories,44941,0,0
+10-Feb-20,,Northwest Territories,Canada,0,0,0,Northwest Territories,44942,0,0
+11-Feb-20,,Northwest Territories,Canada,0,0,0,Northwest Territories,44943,0,0
+11-Feb-20,,Northwest Territories,Canada,0,0,0,Northwest Territories,44944,0,0
+12-Feb-20,,Northwest Territories,Canada,0,0,0,Northwest Territories,44945,0,0
+12-Feb-20,,Northwest Territories,Canada,0,0,0,Northwest Territories,44946,0,0
+13-Feb-20,,Northwest Territories,Canada,0,0,0,Northwest Territories,44947,0,0
+13-Feb-20,,Northwest Territories,Canada,0,0,0,Northwest Territories,44948,0,0
+14-Feb-20,,Northwest Territories,Canada,0,0,0,Northwest Territories,44949,0,0
+14-Feb-20,,Northwest Territories,Canada,0,0,0,Northwest Territories,44950,0,0
+15-Feb-20,,Northwest Territories,Canada,0,0,0,Northwest Territories,44951,0,0
+15-Feb-20,,Northwest Territories,Canada,0,0,0,Northwest Territories,44952,0,0
+16-Feb-20,,Northwest Territories,Canada,0,0,0,Northwest Territories,44953,0,0
+16-Feb-20,,Northwest Territories,Canada,0,0,0,Northwest Territories,44954,0,0
+17-Feb-20,,Northwest Territories,Canada,0,0,0,Northwest Territories,44955,0,0
+17-Feb-20,,Northwest Territories,Canada,0,0,0,Northwest Territories,44956,0,0
+18-Feb-20,,Northwest Territories,Canada,0,0,0,Northwest Territories,44957,0,0
+18-Feb-20,,Northwest Territories,Canada,0,0,0,Northwest Territories,44958,0,0
+19-Feb-20,,Northwest Territories,Canada,0,0,0,Northwest Territories,44959,0,0
+19-Feb-20,,Northwest Territories,Canada,0,0,0,Northwest Territories,44960,0,0
+20-Feb-20,,Northwest Territories,Canada,0,0,0,Northwest Territories,44961,0,0
+20-Feb-20,,Northwest Territories,Canada,0,0,0,Northwest Territories,44962,0,0
+21-Feb-20,,Northwest Territories,Canada,0,0,0,Northwest Territories,44963,0,0
+21-Feb-20,,Northwest Territories,Canada,0,0,0,Northwest Territories,44964,0,0
+22-Feb-20,,Northwest Territories,Canada,0,0,0,Northwest Territories,44965,0,0
+22-Feb-20,,Northwest Territories,Canada,0,0,0,Northwest Territories,44966,0,0
+23-Feb-20,,Northwest Territories,Canada,0,0,0,Northwest Territories,44967,0,0
+23-Feb-20,,Northwest Territories,Canada,0,0,0,Northwest Territories,44968,0,0
+24-Feb-20,,Northwest Territories,Canada,0,0,0,Northwest Territories,44969,0,0
+24-Feb-20,,Northwest Territories,Canada,0,0,0,Northwest Territories,44970,0,0
+25-Feb-20,,Northwest Territories,Canada,0,0,0,Northwest Territories,44971,0,0
+25-Feb-20,,Northwest Territories,Canada,0,0,0,Northwest Territories,44972,0,0
+26-Feb-20,,Northwest Territories,Canada,0,0,0,Northwest Territories,44973,0,0
+26-Feb-20,,Northwest Territories,Canada,0,0,0,Northwest Territories,44974,0,0
+27-Feb-20,,Northwest Territories,Canada,0,0,0,Northwest Territories,44975,0,0
+27-Feb-20,,Northwest Territories,Canada,0,0,0,Northwest Territories,44976,0,0
+28-Feb-20,,Northwest Territories,Canada,0,0,0,Northwest Territories,44977,0,0
+28-Feb-20,,Northwest Territories,Canada,0,0,0,Northwest Territories,44978,0,0
+29-Feb-20,,Northwest Territories,Canada,0,0,0,Northwest Territories,44979,0,0
+29-Feb-20,,Northwest Territories,Canada,0,0,0,Northwest Territories,44980,0,0
+1-Mar-20,,Northwest Territories,Canada,0,0,0,Northwest Territories,44981,0,0
+1-Mar-20,,Northwest Territories,Canada,0,0,0,Northwest Territories,44982,0,0
+2-Mar-20,,Northwest Territories,Canada,0,0,0,Northwest Territories,44983,0,0
+2-Mar-20,,Northwest Territories,Canada,0,0,0,Northwest Territories,44984,0,0
+3-Mar-20,,Northwest Territories,Canada,0,0,0,Northwest Territories,44985,0,0
+3-Mar-20,,Northwest Territories,Canada,0,0,0,Northwest Territories,44986,0,0
+4-Mar-20,,Northwest Territories,Canada,0,0,0,Northwest Territories,44987,0,0
+4-Mar-20,,Northwest Territories,Canada,0,0,0,Northwest Territories,44988,0,0
+5-Mar-20,,Northwest Territories,Canada,0,0,0,Northwest Territories,44989,0,0
+5-Mar-20,,Northwest Territories,Canada,0,0,0,Northwest Territories,44990,0,0
+6-Mar-20,,Northwest Territories,Canada,0,0,0,Northwest Territories,44991,0,0
+6-Mar-20,,Northwest Territories,Canada,0,0,0,Northwest Territories,44992,0,0
+7-Mar-20,,Northwest Territories,Canada,0,0,0,Northwest Territories,44993,0,0
+7-Mar-20,,Northwest Territories,Canada,0,0,0,Northwest Territories,44994,0,0
+8-Mar-20,,Northwest Territories,Canada,0,0,0,Northwest Territories,44995,0,0
+8-Mar-20,,Northwest Territories,Canada,0,0,0,Northwest Territories,44996,0,0
+9-Mar-20,,Northwest Territories,Canada,0,0,0,Northwest Territories,44997,0,0
+9-Mar-20,,Northwest Territories,Canada,0,0,0,Northwest Territories,44998,0,0
+10-Mar-20,,Northwest Territories,Canada,0,0,0,Northwest Territories,44999,0,0
+10-Mar-20,,Northwest Territories,Canada,0,0,0,Northwest Territories,45000,0,0
+11-Mar-20,,Northwest Territories,Canada,0,0,0,Northwest Territories,45001,0,0
+11-Mar-20,,Northwest Territories,Canada,0,0,0,Northwest Territories,45002,0,0
+12-Mar-20,,Northwest Territories,Canada,0,0,0,Northwest Territories,45003,0,0
+12-Mar-20,,Northwest Territories,Canada,0,0,0,Northwest Territories,45004,0,0
+13-Mar-20,,Northwest Territories,Canada,0,0,0,Northwest Territories,45005,0,0
+13-Mar-20,,Northwest Territories,Canada,0,0,0,Northwest Territories,45006,0,0
+14-Mar-20,,Northwest Territories,Canada,0,0,0,Northwest Territories,45007,0,0
+14-Mar-20,,Northwest Territories,Canada,0,0,0,Northwest Territories,45008,0,0
+15-Mar-20,,Northwest Territories,Canada,0,0,0,Northwest Territories,45009,0,0
+15-Mar-20,,Northwest Territories,Canada,0,0,0,Northwest Territories,45010,0,0
+16-Mar-20,,Northwest Territories,Canada,0,0,0,Northwest Territories,45011,0,0
+16-Mar-20,,Northwest Territories,Canada,0,0,0,Northwest Territories,45012,0,0
+17-Mar-20,,Northwest Territories,Canada,0,0,0,Northwest Territories,45013,0,0
+17-Mar-20,,Northwest Territories,Canada,0,0,0,Northwest Territories,45014,0,0
+18-Mar-20,,Northwest Territories,Canada,0,0,0,Northwest Territories,45015,0,0
+18-Mar-20,,Northwest Territories,Canada,0,0,0,Northwest Territories,45016,0,0
+19-Mar-20,,Northwest Territories,Canada,0,0,0,Northwest Territories,45017,0,0
+19-Mar-20,,Northwest Territories,Canada,0,0,0,Northwest Territories,45018,0,0
+20-Mar-20,,Northwest Territories,Canada,0,0,0,Northwest Territories,45019,0,0
+20-Mar-20,,Northwest Territories,Canada,0,0,0,Northwest Territories,45020,0,0
+21-Mar-20,,Northwest Territories,Canada,0,0,0,Northwest Territories,45021,0,0
+21-Mar-20,,Northwest Territories,Canada,0,0,0,Northwest Territories,45022,0,0
+22-Mar-20,,Northwest Territories,Canada,0,0,0,Northwest Territories,45023,0,0
+22-Mar-20,,Northwest Territories,Canada,0,0,0,Northwest Territories,45024,0,0
+23-Mar-20,,Northwest Territories,Canada,0,0,0,Northwest Territories,45025,0,0
+23-Mar-20,,Northwest Territories,Canada,0,0,0,Northwest Territories,45026,0,0
+24-Mar-20,,Northwest Territories,Canada,0,0,0,Northwest Territories,45027,0,0
+24-Mar-20,,Northwest Territories,Canada,0,0,0,Northwest Territories,45028,0,0
+25-Mar-20,,Northwest Territories,Canada,0,0,0,Northwest Territories,45029,0,0
+25-Mar-20,,Northwest Territories,Canada,0,0,0,Northwest Territories,45030,0,0
+26-Mar-20,,Northwest Territories,Canada,1,1,1,Northwest Territories,45031,2.22E-05,2.22E-05
+26-Mar-20,,Northwest Territories,Canada,3,3,3,Northwest Territories,45032,6.66E-05,6.66E-05
+27-Mar-20,,Northwest Territories,Canada,1,0,0,Northwest Territories,45033,2.22E-05,2.22E-05
+27-Mar-20,,Northwest Territories,Canada,3,0,0,Northwest Territories,45034,6.66E-05,6.66E-05
+28-Mar-20,,Northwest Territories,Canada,1,0,0,Northwest Territories,45035,2.22E-05,2.22E-05
+28-Mar-20,,Northwest Territories,Canada,4,1,1,Northwest Territories,45036,8.88E-05,8.88E-05
+29-Mar-20,,Northwest Territories,Canada,1,0,0,Northwest Territories,45037,2.22E-05,2.22E-05
+29-Mar-20,,Northwest Territories,Canada,4,0,0,Northwest Territories,45038,8.88E-05,8.88E-05
+30-Mar-20,,Northwest Territories,Canada,1,0,0,Northwest Territories,45039,2.22E-05,2.22E-05
+30-Mar-20,,Northwest Territories,Canada,4,0,0,Northwest Territories,45040,8.88E-05,8.88E-05
+31-Mar-20,,Northwest Territories,Canada,1,0,0,Northwest Territories,45041,2.22E-05,2.22E-05
+31-Mar-20,,Northwest Territories,Canada,5,1,1,Northwest Territories,45042,0.000111008,0.000111008
+1-Apr-20,,Northwest Territories,Canada,2,1,1,Northwest Territories,45043,4.44E-05,4.44E-05
+1-Apr-20,,Northwest Territories,Canada,5,0,0,Northwest Territories,45044,0.000111003,0.000111003
+2-Apr-20,,Northwest Territories,Canada,2,0,0,Northwest Territories,45045,4.44E-05,4.44E-05
+2-Apr-20,,Northwest Territories,Canada,6,1,1,Northwest Territories,45046,0.000133197,0.000133197
+3-Apr-20,,Northwest Territories,Canada,2,0,0,Northwest Territories,45047,4.44E-05,4.44E-05
+3-Apr-20,,Northwest Territories,Canada,6,0,0,Northwest Territories,45048,0.000133191,0.000133191
+4-Apr-20,,Northwest Territories,Canada,4,2,2,Northwest Territories,45049,8.88E-05,8.88E-05
+4-Apr-20,,Northwest Territories,Canada,6,0,0,Northwest Territories,45050,0.000133185,0.000133185
+5-Apr-20,,Northwest Territories,Canada,4,0,0,Northwest Territories,45051,8.88E-05,8.88E-05
+5-Apr-20,,Northwest Territories,Canada,6,0,0,Northwest Territories,45052,0.000133179,0.000133179
+6-Apr-20,,Northwest Territories,Canada,5,1,1,Northwest Territories,45053,0.00011098,0.00011098
+6-Apr-20,,Northwest Territories,Canada,6,0,0,Northwest Territories,45054,0.000133174,0.000133174
+7-Apr-20,,Northwest Territories,Canada,5,0,0,Northwest Territories,45055,0.000110975,0.000110975
+7-Apr-20,,Northwest Territories,Canada,7,1,1,Northwest Territories,45056,0.000155362,0.000155362
+8-Apr-20,,Northwest Territories,Canada,5,0,0,Northwest Territories,45057,0.000110971,0.000110971
+8-Apr-20,,Northwest Territories,Canada,7,0,0,Northwest Territories,45058,0.000155355,0.000155355
+9-Apr-20,,Northwest Territories,Canada,5,0,0,Northwest Territories,45059,0.000110966,0.000110966
+9-Apr-20,,Northwest Territories,Canada,7,0,0,Northwest Territories,45060,0.000155348,0.000155348
+10-Apr-20,,Northwest Territories,Canada,5,0,0,Northwest Territories,45061,0.000110961,0.000110961
+10-Apr-20,,Northwest Territories,Canada,8,1,1,Northwest Territories,45062,0.000177533,0.000177533
+11-Apr-20,,Northwest Territories,Canada,5,0,0,Northwest Territories,45063,0.000110956,0.000110956
+11-Apr-20,,Northwest Territories,Canada,8,0,0,Northwest Territories,45064,0.000177525,0.000177525
+12-Apr-20,,Northwest Territories,Canada,5,0,0,Northwest Territories,45065,0.000110951,0.000110951
+12-Apr-20,,Northwest Territories,Canada,8,0,0,Northwest Territories,45066,0.000177517,0.000177517
+13-Apr-20,,Northwest Territories,Canada,5,0,0,Northwest Territories,45067,0.000110946,0.000110946
+13-Apr-20,,Northwest Territories,Canada,8,0,0,Northwest Territories,45068,0.00017751,0.00017751
+14-Apr-20,,Northwest Territories,Canada,5,0,0,Northwest Territories,45069,0.000110941,0.000110941
+14-Apr-20,,Northwest Territories,Canada,8,0,0,Northwest Territories,45070,0.000177502,0.000177502
+15-Apr-20,,Northwest Territories,Canada,5,0,0,Northwest Territories,45071,0.000110936,0.000110936
+15-Apr-20,,Northwest Territories,Canada,8,0,0,Northwest Territories,45072,0.000177494,0.000177494
+16-Apr-20,,Northwest Territories,Canada,5,0,0,Northwest Territories,45073,0.000110931,0.000110931
+16-Apr-20,,Northwest Territories,Canada,8,0,0,Northwest Territories,45074,0.000177486,0.000177486
+17-Apr-20,,Northwest Territories,Canada,5,0,0,Northwest Territories,45075,0.000110926,0.000110926
+17-Apr-20,,Northwest Territories,Canada,8,0,0,Northwest Territories,45076,0.000177478,0.000177478
+18-Apr-20,,Northwest Territories,Canada,5,0,0,Northwest Territories,45077,0.000110921,0.000110921
+18-Apr-20,,Northwest Territories,Canada,9,1,1,Northwest Territories,45078,0.000199654,0.000199654
+19-Apr-20,,Northwest Territories,Canada,5,0,0,Northwest Territories,45079,0.000110916,0.000110916
+19-Apr-20,,Northwest Territories,Canada,9,0,0,Northwest Territories,45080,0.000199645,0.000199645
+20-Apr-20,,Northwest Territories,Canada,5,0,0,Northwest Territories,45081,0.000110911,0.000110911
+20-Apr-20,,Northwest Territories,Canada,11,2,2,Northwest Territories,45082,0.000244,0.000244
+21-Apr-20,,Northwest Territories,Canada,5,0,0,Northwest Territories,45083,0.000110907,0.000110907
+21-Apr-20,,Northwest Territories,Canada,11,0,0,Northwest Territories,45084,0.000243989,0.000243989
+22-Apr-20,,Northwest Territories,Canada,5,0,0,Northwest Territories,45085,0.000110902,0.000110902
+22-Apr-20,,Northwest Territories,Canada,11,0,0,Northwest Territories,45086,0.000243978,0.000243978
+23-Apr-20,,Northwest Territories,Canada,5,0,0,Northwest Territories,45087,0.000110897,0.000110897
+23-Apr-20,,Northwest Territories,Canada,11,0,0,Northwest Territories,45088,0.000243967,0.000243967
+24-Apr-20,,Northwest Territories,Canada,5,0,0,Northwest Territories,45089,0.000110892,0.000110892
+24-Apr-20,,Northwest Territories,Canada,11,0,0,Northwest Territories,45090,0.000243957,0.000243957
+25-Apr-20,,Northwest Territories,Canada,5,0,0,Northwest Territories,45091,0.000110887,0.000110887
+25-Apr-20,,Northwest Territories,Canada,11,0,0,Northwest Territories,45092,0.000243946,0.000243946
+26-Apr-20,,Northwest Territories,Canada,5,0,0,Northwest Territories,45093,0.000110882,0.000110882
+26-Apr-20,,Northwest Territories,Canada,11,0,0,Northwest Territories,45094,0.000243935,0.000243935
+27-Apr-20,,Northwest Territories,Canada,5,0,0,Northwest Territories,45095,0.000110877,0.000110877
+27-Apr-20,,Northwest Territories,Canada,11,0,0,Northwest Territories,45096,0.000243924,0.000243924
+28-Apr-20,,Northwest Territories,Canada,5,0,0,Northwest Territories,45097,0.000110872,0.000110872
+28-Apr-20,,Northwest Territories,Canada,11,0,0,Northwest Territories,45098,0.000243913,0.000243913
+29-Apr-20,,Northwest Territories,Canada,5,0,0,Northwest Territories,45099,0.000110867,0.000110867
+29-Apr-20,,Northwest Territories,Canada,11,0,0,Northwest Territories,45100,0.000243902,0.000243902
+30-Apr-20,,Northwest Territories,Canada,5,0,0,Northwest Territories,45101,0.000110862,0.000110862
+30-Apr-20,,Northwest Territories,Canada,11,0,0,Northwest Territories,45102,0.000243892,0.000243892
+1-May-20,,Northwest Territories,Canada,5,0,0,Northwest Territories,45103,0.000110857,0.000110857
+1-May-20,,Northwest Territories,Canada,11,0,0,Northwest Territories,45104,0.000243881,0.000243881
+2-May-20,,Northwest Territories,Canada,5,0,0,Northwest Territories,45105,0.000110852,0.000110852
+2-May-20,,Northwest Territories,Canada,11,0,0,Northwest Territories,45106,0.00024387,0.00024387
+3-May-20,,Northwest Territories,Canada,5,0,0,Northwest Territories,45107,0.000110848,0.000110848
+3-May-20,,Northwest Territories,Canada,11,0,0,Northwest Territories,45108,0.000243859,0.000243859
+4-May-20,,Northwest Territories,Canada,5,0,0,Northwest Territories,45109,0.000110843,0.000110843
+4-May-20,,Northwest Territories,Canada,11,0,0,Northwest Territories,45110,0.000243848,0.000243848
+5-May-20,,Northwest Territories,Canada,5,0,0,Northwest Territories,45111,0.000110838,0.000110838
+5-May-20,,Northwest Territories,Canada,11,0,0,Northwest Territories,45112,0.000243838,0.000243838
+6-May-20,,Northwest Territories,Canada,5,0,0,Northwest Territories,45113,0.000110833,0.000110833
+6-May-20,,Northwest Territories,Canada,11,0,0,Northwest Territories,45114,0.000243827,0.000243827
+7-May-20,,Northwest Territories,Canada,5,0,0,Northwest Territories,45115,0.000110828,0.000110828
+7-May-20,,Northwest Territories,Canada,11,0,0,Northwest Territories,45116,0.000243816,0.000243816
+8-May-20,,Northwest Territories,Canada,5,0,0,Northwest Territories,45117,0.000110823,0.000110823
+8-May-20,,Northwest Territories,Canada,11,0,0,Northwest Territories,45118,0.000243805,0.000243805
+9-May-20,,Northwest Territories,Canada,5,0,0,Northwest Territories,45119,0.000110818,0.000110818
+9-May-20,,Northwest Territories,Canada,11,0,0,Northwest Territories,45120,0.000243794,0.000243794
+10-May-20,,Northwest Territories,Canada,5,0,0,Northwest Territories,45121,0.000110813,0.000110813
+10-May-20,,Northwest Territories,Canada,11,0,0,Northwest Territories,45122,0.000243784,0.000243784
+11-May-20,,Northwest Territories,Canada,5,0,0,Northwest Territories,45123,0.000110808,0.000110808
+11-May-20,,Northwest Territories,Canada,11,0,0,Northwest Territories,45124,0.000243773,0.000243773
+12-May-20,,Northwest Territories,Canada,5,0,0,Northwest Territories,45125,0.000110803,0.000110803
+12-May-20,,Northwest Territories,Canada,11,0,0,Northwest Territories,45126,0.000243762,0.000243762
+13-May-20,,Northwest Territories,Canada,5,0,0,Northwest Territories,45127,0.000110798,0.000110798
+13-May-20,,Northwest Territories,Canada,11,0,0,Northwest Territories,45128,0.000243751,0.000243751
+14-May-20,,Northwest Territories,Canada,5,0,0,Northwest Territories,45129,0.000110794,0.000110794
+14-May-20,,Northwest Territories,Canada,11,0,0,Northwest Territories,45130,0.00024374,0.00024374
+15-May-20,,Northwest Territories,Canada,5,0,0,Northwest Territories,45131,0.000110789,0.000110789
+15-May-20,,Northwest Territories,Canada,11,0,0,Northwest Territories,45132,0.00024373,0.00024373
+16-May-20,,Northwest Territories,Canada,5,0,0,Northwest Territories,45133,0.000110784,0.000110784
+16-May-20,,Northwest Territories,Canada,11,0,0,Northwest Territories,45134,0.000243719,0.000243719
+17-May-20,,Northwest Territories,Canada,5,0,0,Northwest Territories,45135,0.000110779,0.000110779
+17-May-20,,Northwest Territories,Canada,11,0,0,Northwest Territories,45136,0.000243708,0.000243708
+18-May-20,,Northwest Territories,Canada,5,0,0,Northwest Territories,45137,0.000110774,0.000110774
+18-May-20,,Northwest Territories,Canada,11,0,0,Northwest Territories,45138,0.000243697,0.000243697
+19-May-20,,Northwest Territories,Canada,5,0,0,Northwest Territories,45139,0.000110769,0.000110769
+19-May-20,,Northwest Territories,Canada,11,0,0,Northwest Territories,45140,0.000243686,0.000243686
+20-May-20,,Northwest Territories,Canada,5,0,0,Northwest Territories,45141,0.000110764,0.000110764
+20-May-20,,Northwest Territories,Canada,11,0,0,Northwest Territories,45142,0.000243676,0.000243676
+21-May-20,,Northwest Territories,Canada,5,0,0,Northwest Territories,45143,0.000110759,0.000110759
+21-May-20,,Northwest Territories,Canada,11,0,0,Northwest Territories,45144,0.000243665,0.000243665
+22-May-20,,Northwest Territories,Canada,5,0,0,Northwest Territories,45145,0.000110754,0.000110754
+22-May-20,,Northwest Territories,Canada,11,0,0,Northwest Territories,45146,0.000243654,0.000243654
+23-May-20,,Northwest Territories,Canada,5,0,0,Northwest Territories,45147,0.000110749,0.000110749
+23-May-20,,Northwest Territories,Canada,11,0,0,Northwest Territories,45148,0.000243643,0.000243643
+24-May-20,,Northwest Territories,Canada,5,0,0,Northwest Territories,45149,0.000110744,0.000110744
+24-May-20,,Northwest Territories,Canada,11,0,0,Northwest Territories,45150,0.000243632,0.000243632
+25-May-20,,Northwest Territories,Canada,5,0,0,Northwest Territories,45151,0.00011074,0.00011074
+25-May-20,,Northwest Territories,Canada,11,0,0,Northwest Territories,45152,0.000243622,0.000243622
+26-May-20,,Northwest Territories,Canada,5,0,0,Northwest Territories,45153,0.000110735,0.000110735
+26-May-20,,Northwest Territories,Canada,11,0,0,Northwest Territories,45154,0.000243611,0.000243611
+27-May-20,,Northwest Territories,Canada,5,0,0,Northwest Territories,45155,0.00011073,0.00011073
+27-May-20,,Northwest Territories,Canada,11,0,0,Northwest Territories,45156,0.0002436,0.0002436
+28-May-20,,Northwest Territories,Canada,5,0,0,Northwest Territories,45157,0.000110725,0.000110725
+28-May-20,,Northwest Territories,Canada,11,0,0,Northwest Territories,45158,0.000243589,0.000243589
+29-May-20,,Northwest Territories,Canada,5,0,0,Northwest Territories,45159,0.00011072,0.00011072
+29-May-20,,Northwest Territories,Canada,11,0,0,Northwest Territories,45160,0.000243578,0.000243578
+30-May-20,,Northwest Territories,Canada,5,0,0,Northwest Territories,45161,0.000110715,0.000110715
+30-May-20,,Northwest Territories,Canada,11,0,0,Northwest Territories,45162,0.000243568,0.000243568
+31-May-20,,Northwest Territories,Canada,5,0,0,Northwest Territories,45163,0.00011071,0.00011071
+31-May-20,,Northwest Territories,Canada,11,0,0,Northwest Territories,45164,0.000243557,0.000243557
+1-Jun-20,,Northwest Territories,Canada,5,0,0,Northwest Territories,45165,0.000110705,0.000110705
+1-Jun-20,,Northwest Territories,Canada,11,0,0,Northwest Territories,45166,0.000243546,0.000243546
+2-Jun-20,,Northwest Territories,Canada,5,0,0,Northwest Territories,45167,0.0001107,0.0001107
+2-Jun-20,,Northwest Territories,Canada,11,0,0,Northwest Territories,45168,0.000243535,0.000243535
+3-Jun-20,,Northwest Territories,Canada,5,0,0,Northwest Territories,45169,0.000110695,0.000110695
+3-Jun-20,,Northwest Territories,Canada,11,0,0,Northwest Territories,45170,0.000243524,0.000243524
+4-Jun-20,,Northwest Territories,Canada,5,0,0,Northwest Territories,45171,0.00011069,0.00011069
+4-Jun-20,,Northwest Territories,Canada,11,0,0,Northwest Territories,45172,0.000243514,0.000243514
+5-Jun-20,,Northwest Territories,Canada,5,0,0,Northwest Territories,45173,0.000110686,0.000110686
+5-Jun-20,,Northwest Territories,Canada,11,0,0,Northwest Territories,45174,0.000243503,0.000243503
+6-Jun-20,,Northwest Territories,Canada,5,0,0,Northwest Territories,45175,0.000110681,0.000110681
+6-Jun-20,,Northwest Territories,Canada,11,0,0,Northwest Territories,45176,0.000243492,0.000243492
+7-Jun-20,,Northwest Territories,Canada,5,0,0,Northwest Territories,45177,0.000110676,0.000110676
+7-Jun-20,,Northwest Territories,Canada,11,0,0,Northwest Territories,45178,0.000243481,0.000243481
+8-Jun-20,,Northwest Territories,Canada,5,0,0,Northwest Territories,45179,0.000110671,0.000110671
+8-Jun-20,,Northwest Territories,Canada,11,0,0,Northwest Territories,45180,0.000243471,0.000243471
+9-Jun-20,,Northwest Territories,Canada,5,0,0,Northwest Territories,45181,0.000110666,0.000110666
+9-Jun-20,,Northwest Territories,Canada,11,0,0,Northwest Territories,45182,0.00024346,0.00024346
+10-Jun-20,,Northwest Territories,Canada,5,0,0,Northwest Territories,45183,0.000110661,0.000110661
+10-Jun-20,,Northwest Territories,Canada,11,0,0,Northwest Territories,45184,0.000243449,0.000243449
+11-Jun-20,,Northwest Territories,Canada,5,0,0,Northwest Territories,45185,0.000110656,0.000110656
+11-Jun-20,,Northwest Territories,Canada,11,0,0,Northwest Territories,45186,0.000243438,0.000243438
+12-Jun-20,,Northwest Territories,Canada,5,0,0,Northwest Territories,45187,0.000110651,0.000110651
+12-Jun-20,,Northwest Territories,Canada,11,0,0,Northwest Territories,45188,0.000243427,0.000243427
+13-Jun-20,,Northwest Territories,Canada,5,0,0,Northwest Territories,45189,0.000110646,0.000110646
+13-Jun-20,,Northwest Territories,Canada,11,0,0,Northwest Territories,45190,0.000243417,0.000243417
+22-Jan-20,,Nova Scotia,Canada,0,-261,0,Nova Scotia,977457,0,0
+23-Jan-20,,Nova Scotia,Canada,0,0,0,Nova Scotia,977458,0,0
+24-Jan-20,,Nova Scotia,Canada,0,0,0,Nova Scotia,977459,0,0
+25-Jan-20,,Nova Scotia,Canada,0,0,0,Nova Scotia,977460,0,0
+26-Jan-20,,Nova Scotia,Canada,0,0,0,Nova Scotia,977461,0,0
+27-Jan-20,,Nova Scotia,Canada,0,0,0,Nova Scotia,977462,0,0
+28-Jan-20,,Nova Scotia,Canada,0,0,0,Nova Scotia,977463,0,0
+29-Jan-20,,Nova Scotia,Canada,0,0,0,Nova Scotia,977464,0,0
+30-Jan-20,,Nova Scotia,Canada,0,0,0,Nova Scotia,977465,0,0
+31-Jan-20,,Nova Scotia,Canada,0,0,0,Nova Scotia,977466,0,0
+1-Feb-20,,Nova Scotia,Canada,0,0,0,Nova Scotia,977467,0,0
+2-Feb-20,,Nova Scotia,Canada,0,0,0,Nova Scotia,977468,0,0
+3-Feb-20,,Nova Scotia,Canada,0,0,0,Nova Scotia,977469,0,0
+4-Feb-20,,Nova Scotia,Canada,0,0,0,Nova Scotia,977470,0,0
+5-Feb-20,,Nova Scotia,Canada,0,0,0,Nova Scotia,977471,0,0
+6-Feb-20,,Nova Scotia,Canada,0,0,0,Nova Scotia,977472,0,0
+7-Feb-20,,Nova Scotia,Canada,0,0,0,Nova Scotia,977473,0,0
+8-Feb-20,,Nova Scotia,Canada,0,0,0,Nova Scotia,977474,0,0
+9-Feb-20,,Nova Scotia,Canada,0,0,0,Nova Scotia,977475,0,0
+10-Feb-20,,Nova Scotia,Canada,0,0,0,Nova Scotia,977476,0,0
+11-Feb-20,,Nova Scotia,Canada,0,0,0,Nova Scotia,977477,0,0
+12-Feb-20,,Nova Scotia,Canada,0,0,0,Nova Scotia,977478,0,0
+13-Feb-20,,Nova Scotia,Canada,0,0,0,Nova Scotia,977479,0,0
+14-Feb-20,,Nova Scotia,Canada,0,0,0,Nova Scotia,977480,0,0
+15-Feb-20,,Nova Scotia,Canada,0,0,0,Nova Scotia,977481,0,0
+16-Feb-20,,Nova Scotia,Canada,0,0,0,Nova Scotia,977482,0,0
+17-Feb-20,,Nova Scotia,Canada,0,0,0,Nova Scotia,977483,0,0
+18-Feb-20,,Nova Scotia,Canada,0,0,0,Nova Scotia,977484,0,0
+19-Feb-20,,Nova Scotia,Canada,0,0,0,Nova Scotia,977485,0,0
+20-Feb-20,,Nova Scotia,Canada,0,0,0,Nova Scotia,977486,0,0
+21-Feb-20,,Nova Scotia,Canada,0,0,0,Nova Scotia,977487,0,0
+22-Feb-20,,Nova Scotia,Canada,0,0,0,Nova Scotia,977488,0,0
+23-Feb-20,,Nova Scotia,Canada,0,0,0,Nova Scotia,977489,0,0
+24-Feb-20,,Nova Scotia,Canada,0,0,0,Nova Scotia,977490,0,0
+25-Feb-20,,Nova Scotia,Canada,0,0,0,Nova Scotia,977491,0,0
+26-Feb-20,,Nova Scotia,Canada,0,0,0,Nova Scotia,977492,0,0
+27-Feb-20,,Nova Scotia,Canada,0,0,0,Nova Scotia,977493,0,0
+28-Feb-20,,Nova Scotia,Canada,0,0,0,Nova Scotia,977494,0,0
+29-Feb-20,,Nova Scotia,Canada,0,0,0,Nova Scotia,977495,0,0
+1-Mar-20,,Nova Scotia,Canada,0,0,0,Nova Scotia,977496,0,0
+2-Mar-20,,Nova Scotia,Canada,0,0,0,Nova Scotia,977497,0,0
+3-Mar-20,,Nova Scotia,Canada,0,0,0,Nova Scotia,977498,0,0
+4-Mar-20,,Nova Scotia,Canada,0,0,0,Nova Scotia,977499,0,0
+5-Mar-20,,Nova Scotia,Canada,0,0,0,Nova Scotia,977500,0,0
+6-Mar-20,,Nova Scotia,Canada,0,0,0,Nova Scotia,977501,0,0
+7-Mar-20,,Nova Scotia,Canada,0,0,0,Nova Scotia,977502,0,0
+8-Mar-20,,Nova Scotia,Canada,0,0,0,Nova Scotia,977503,0,0
+9-Mar-20,,Nova Scotia,Canada,0,0,0,Nova Scotia,977504,0,0
+10-Mar-20,,Nova Scotia,Canada,0,0,0,Nova Scotia,977505,0,0
+11-Mar-20,,Nova Scotia,Canada,0,0,0,Nova Scotia,977506,0,0
+12-Mar-20,,Nova Scotia,Canada,0,0,0,Nova Scotia,977507,0,0
+13-Mar-20,,Nova Scotia,Canada,0,0,0,Nova Scotia,977508,0,0
+14-Mar-20,,Nova Scotia,Canada,0,0,0,Nova Scotia,977509,0,0
+15-Mar-20,,Nova Scotia,Canada,0,0,0,Nova Scotia,977510,0,0
+16-Mar-20,,Nova Scotia,Canada,5,5,5,Nova Scotia,977511,5.12E-06,5.12E-06
+17-Mar-20,,Nova Scotia,Canada,7,2,2,Nova Scotia,977512,7.16E-06,7.16E-06
+18-Mar-20,,Nova Scotia,Canada,12,5,5,Nova Scotia,977513,1.23E-05,1.23E-05
+19-Mar-20,,Nova Scotia,Canada,14,2,2,Nova Scotia,977514,1.43E-05,1.43E-05
+20-Mar-20,,Nova Scotia,Canada,15,1,1,Nova Scotia,977515,1.53E-05,1.53E-05
+21-Mar-20,,Nova Scotia,Canada,21,6,6,Nova Scotia,977516,2.15E-05,2.15E-05
+22-Mar-20,,Nova Scotia,Canada,28,7,7,Nova Scotia,977517,2.86E-05,2.86E-05
+23-Mar-20,,Nova Scotia,Canada,41,13,13,Nova Scotia,977518,4.19E-05,4.19E-05
+24-Mar-20,,Nova Scotia,Canada,51,10,10,Nova Scotia,977519,5.22E-05,5.22E-05
+25-Mar-20,,Nova Scotia,Canada,68,17,17,Nova Scotia,977520,6.96E-05,6.96E-05
+26-Mar-20,,Nova Scotia,Canada,73,5,5,Nova Scotia,977521,7.47E-05,7.47E-05
+27-Mar-20,,Nova Scotia,Canada,90,17,17,Nova Scotia,977522,9.21E-05,9.21E-05
+28-Mar-20,,Nova Scotia,Canada,110,20,20,Nova Scotia,977523,0.000112529,0.000112529
+29-Mar-20,,Nova Scotia,Canada,122,12,12,Nova Scotia,977524,0.000124805,0.000124805
+30-Mar-20,,Nova Scotia,Canada,127,5,5,Nova Scotia,977525,0.00012992,0.00012992
+31-Mar-20,,Nova Scotia,Canada,147,20,20,Nova Scotia,977526,0.00015038,0.00015038
+1-Apr-20,,Nova Scotia,Canada,173,26,26,Nova Scotia,977527,0.000176977,0.000176977
+2-Apr-20,,Nova Scotia,Canada,193,20,20,Nova Scotia,977528,0.000197437,0.000197437
+3-Apr-20,,Nova Scotia,Canada,207,14,14,Nova Scotia,977529,0.000211758,0.000211758
+4-Apr-20,,Nova Scotia,Canada,236,29,29,Nova Scotia,977530,0.000241425,0.000241425
+5-Apr-20,,Nova Scotia,Canada,262,26,26,Nova Scotia,977531,0.000268022,0.000268022
+6-Apr-20,,Nova Scotia,Canada,293,31,31,Nova Scotia,977532,0.000299734,0.000299734
+7-Apr-20,,Nova Scotia,Canada,310,17,17,Nova Scotia,977533,0.000317125,0.000317125
+8-Apr-20,,Nova Scotia,Canada,310,0,0,Nova Scotia,977534,0.000317125,0.000317125
+9-Apr-20,,Nova Scotia,Canada,342,32,32,Nova Scotia,977535,0.00034986,0.00034986
+10-Apr-20,,Nova Scotia,Canada,407,65,65,Nova Scotia,977536,0.000416353,0.000416353
+11-Apr-20,,Nova Scotia,Canada,428,21,21,Nova Scotia,977537,0.000437835,0.000437835
+12-Apr-20,,Nova Scotia,Canada,445,17,17,Nova Scotia,977538,0.000455225,0.000455225
+13-Apr-20,,Nova Scotia,Canada,474,29,29,Nova Scotia,977539,0.000484891,0.000484891
+14-Apr-20,,Nova Scotia,Canada,517,43,43,Nova Scotia,977540,0.000528879,0.000528879
+15-Apr-20,,Nova Scotia,Canada,549,32,32,Nova Scotia,977541,0.000561613,0.000561613
+16-Apr-20,,Nova Scotia,Canada,579,30,30,Nova Scotia,977542,0.000592302,0.000592302
+17-Apr-20,,Nova Scotia,Canada,606,27,27,Nova Scotia,977543,0.000619922,0.000619922
+18-Apr-20,,Nova Scotia,Canada,649,43,43,Nova Scotia,977544,0.000663909,0.000663909
+19-Apr-20,,Nova Scotia,Canada,675,26,26,Nova Scotia,977545,0.000690505,0.000690505
+20-Apr-20,,Nova Scotia,Canada,721,46,46,Nova Scotia,977546,0.000737561,0.000737561
+21-Apr-20,,Nova Scotia,Canada,737,16,16,Nova Scotia,977547,0.000753928,0.000753928
+22-Apr-20,,Nova Scotia,Canada,772,35,35,Nova Scotia,977548,0.000789731,0.000789731
+23-Apr-20,,Nova Scotia,Canada,827,55,55,Nova Scotia,977549,0.000845993,0.000845993
+24-Apr-20,,Nova Scotia,Canada,850,23,23,Nova Scotia,977550,0.000869521,0.000869521
+25-Apr-20,,Nova Scotia,Canada,865,15,15,Nova Scotia,977551,0.000884864,0.000884864
+26-Apr-20,,Nova Scotia,Canada,873,8,8,Nova Scotia,977552,0.000893047,0.000893047
+27-Apr-20,,Nova Scotia,Canada,900,27,27,Nova Scotia,977553,0.000920666,0.000920666
+28-Apr-20,,Nova Scotia,Canada,915,15,15,Nova Scotia,977554,0.00093601,0.00093601
+29-Apr-20,,Nova Scotia,Canada,935,20,20,Nova Scotia,977555,0.000956468,0.000956468
+30-Apr-20,,Nova Scotia,Canada,947,12,12,Nova Scotia,977556,0.000968742,0.000968742
+1-May-20,,Nova Scotia,Canada,959,12,12,Nova Scotia,977557,0.000981017,0.000981017
+2-May-20,,Nova Scotia,Canada,963,4,4,Nova Scotia,977558,0.000985108,0.000985108
+3-May-20,,Nova Scotia,Canada,971,8,8,Nova Scotia,977559,0.00099329,0.00099329
+4-May-20,,Nova Scotia,Canada,985,14,14,Nova Scotia,977560,0.001007611,0.001007611
+5-May-20,,Nova Scotia,Canada,991,6,6,Nova Scotia,977561,0.001013747,0.001013747
+6-May-20,,Nova Scotia,Canada,998,7,7,Nova Scotia,977562,0.001020907,0.001020907
+7-May-20,,Nova Scotia,Canada,1007,9,9,Nova Scotia,977563,0.001030113,0.001030113
+8-May-20,,Nova Scotia,Canada,1008,1,1,Nova Scotia,977564,0.001031135,0.001031135
+9-May-20,,Nova Scotia,Canada,1011,3,3,Nova Scotia,977565,0.001034202,0.001034202
+10-May-20,,Nova Scotia,Canada,1018,7,7,Nova Scotia,977566,0.001041362,0.001041362
+11-May-20,,Nova Scotia,Canada,1019,1,1,Nova Scotia,977567,0.001042384,0.001042384
+12-May-20,,Nova Scotia,Canada,1020,1,1,Nova Scotia,977568,0.001043406,0.001043406
+13-May-20,,Nova Scotia,Canada,1024,4,4,Nova Scotia,977569,0.001047496,0.001047496
+14-May-20,,Nova Scotia,Canada,1026,2,2,Nova Scotia,977570,0.001049541,0.001049541
+15-May-20,,Nova Scotia,Canada,1034,8,8,Nova Scotia,977571,0.001057724,0.001057724
+16-May-20,,Nova Scotia,Canada,1037,3,3,Nova Scotia,977572,0.001060791,0.001060791
+17-May-20,,Nova Scotia,Canada,1040,3,3,Nova Scotia,977573,0.001063859,0.001063859
+18-May-20,,Nova Scotia,Canada,1043,3,3,Nova Scotia,977574,0.001066927,0.001066927
+19-May-20,,Nova Scotia,Canada,1044,1,1,Nova Scotia,977575,0.001067949,0.001067949
+20-May-20,,Nova Scotia,Canada,1045,1,1,Nova Scotia,977576,0.001068971,0.001068971
+21-May-20,,Nova Scotia,Canada,1046,1,1,Nova Scotia,977577,0.001069992,0.001069992
+22-May-20,,Nova Scotia,Canada,1048,2,2,Nova Scotia,977578,0.001072037,0.001072037
+23-May-20,,Nova Scotia,Canada,1049,1,1,Nova Scotia,977579,0.001073059,0.001073059
+24-May-20,,Nova Scotia,Canada,1050,1,1,Nova Scotia,977580,0.001074081,0.001074081
+25-May-20,,Nova Scotia,Canada,1051,1,1,Nova Scotia,977581,0.001075103,0.001075103
+26-May-20,,Nova Scotia,Canada,1052,1,1,Nova Scotia,977582,0.001076125,0.001076125
+27-May-20,,Nova Scotia,Canada,1053,1,1,Nova Scotia,977583,0.001077146,0.001077146
+28-May-20,,Nova Scotia,Canada,1055,2,2,Nova Scotia,977584,0.001079191,0.001079191
+29-May-20,,Nova Scotia,Canada,1055,0,0,Nova Scotia,977585,0.00107919,0.00107919
+30-May-20,,Nova Scotia,Canada,1056,1,1,Nova Scotia,977586,0.001080212,0.001080212
+31-May-20,,Nova Scotia,Canada,1056,0,0,Nova Scotia,977587,0.001080211,0.001080211
+1-Jun-20,,Nova Scotia,Canada,1057,1,1,Nova Scotia,977588,0.001081233,0.001081233
+2-Jun-20,,Nova Scotia,Canada,1057,0,0,Nova Scotia,977589,0.001081231,0.001081231
+3-Jun-20,,Nova Scotia,Canada,1058,1,1,Nova Scotia,977590,0.001082253,0.001082253
+4-Jun-20,,Nova Scotia,Canada,1058,0,0,Nova Scotia,977591,0.001082252,0.001082252
+5-Jun-20,,Nova Scotia,Canada,1058,0,0,Nova Scotia,977592,0.001082251,0.001082251
+6-Jun-20,,Nova Scotia,Canada,1058,0,0,Nova Scotia,977593,0.00108225,0.00108225
+7-Jun-20,,Nova Scotia,Canada,1059,1,1,Nova Scotia,977594,0.001083272,0.001083272
+8-Jun-20,,Nova Scotia,Canada,1059,0,0,Nova Scotia,977595,0.001083271,0.001083271
+9-Jun-20,,Nova Scotia,Canada,1060,1,1,Nova Scotia,977596,0.001084292,0.001084292
+10-Jun-20,,Nova Scotia,Canada,1061,1,1,Nova Scotia,977597,0.001085314,0.001085314
+11-Jun-20,,Nova Scotia,Canada,1061,0,0,Nova Scotia,977598,0.001085313,0.001085313
+12-Jun-20,,Nova Scotia,Canada,1061,0,0,Nova Scotia,977599,0.001085312,0.001085312
+13-Jun-20,,Nova Scotia,Canada,1061,0,0,Nova Scotia,977600,0.001085311,0.001085311
+22-Jan-20,,Ontario,Canada,0,-1061,0,Ontario,14711827,0,0
+23-Jan-20,,Ontario,Canada,0,0,0,Ontario,14711828,0,0
+24-Jan-20,,Ontario,Canada,0,0,0,Ontario,14711829,0,0
+25-Jan-20,,Ontario,Canada,0,0,0,Ontario,14711830,0,0
+26-Jan-20,,Ontario,Canada,1,1,1,Ontario,14711831,6.80E-08,6.80E-08
+27-Jan-20,,Ontario,Canada,1,0,0,Ontario,14711832,6.80E-08,6.80E-08
+28-Jan-20,,Ontario,Canada,1,0,0,Ontario,14711833,6.80E-08,6.80E-08
+29-Jan-20,,Ontario,Canada,1,0,0,Ontario,14711834,6.80E-08,6.80E-08
+30-Jan-20,,Ontario,Canada,1,0,0,Ontario,14711835,6.80E-08,6.80E-08
+31-Jan-20,,Ontario,Canada,3,2,2,Ontario,14711836,2.04E-07,2.04E-07
+1-Feb-20,,Ontario,Canada,3,0,0,Ontario,14711837,2.04E-07,2.04E-07
+2-Feb-20,,Ontario,Canada,3,0,0,Ontario,14711838,2.04E-07,2.04E-07
+3-Feb-20,,Ontario,Canada,3,0,0,Ontario,14711839,2.04E-07,2.04E-07
+4-Feb-20,,Ontario,Canada,3,0,0,Ontario,14711840,2.04E-07,2.04E-07
+5-Feb-20,,Ontario,Canada,3,0,0,Ontario,14711841,2.04E-07,2.04E-07
+6-Feb-20,,Ontario,Canada,3,0,0,Ontario,14711842,2.04E-07,2.04E-07
+7-Feb-20,,Ontario,Canada,3,0,0,Ontario,14711843,2.04E-07,2.04E-07
+8-Feb-20,,Ontario,Canada,3,0,0,Ontario,14711844,2.04E-07,2.04E-07
+9-Feb-20,,Ontario,Canada,3,0,0,Ontario,14711845,2.04E-07,2.04E-07
+10-Feb-20,,Ontario,Canada,3,0,0,Ontario,14711846,2.04E-07,2.04E-07
+11-Feb-20,,Ontario,Canada,3,0,0,Ontario,14711847,2.04E-07,2.04E-07
+12-Feb-20,,Ontario,Canada,3,0,0,Ontario,14711848,2.04E-07,2.04E-07
+13-Feb-20,,Ontario,Canada,3,0,0,Ontario,14711849,2.04E-07,2.04E-07
+14-Feb-20,,Ontario,Canada,3,0,0,Ontario,14711850,2.04E-07,2.04E-07
+15-Feb-20,,Ontario,Canada,3,0,0,Ontario,14711851,2.04E-07,2.04E-07
+16-Feb-20,,Ontario,Canada,3,0,0,Ontario,14711852,2.04E-07,2.04E-07
+17-Feb-20,,Ontario,Canada,3,0,0,Ontario,14711853,2.04E-07,2.04E-07
+18-Feb-20,,Ontario,Canada,3,0,0,Ontario,14711854,2.04E-07,2.04E-07
+19-Feb-20,,Ontario,Canada,3,0,0,Ontario,14711855,2.04E-07,2.04E-07
+20-Feb-20,,Ontario,Canada,3,0,0,Ontario,14711856,2.04E-07,2.04E-07
+21-Feb-20,,Ontario,Canada,3,0,0,Ontario,14711857,2.04E-07,2.04E-07
+22-Feb-20,,Ontario,Canada,3,0,0,Ontario,14711858,2.04E-07,2.04E-07
+23-Feb-20,,Ontario,Canada,3,0,0,Ontario,14711859,2.04E-07,2.04E-07
+24-Feb-20,,Ontario,Canada,4,1,1,Ontario,14711860,2.72E-07,2.72E-07
+25-Feb-20,,Ontario,Canada,4,0,0,Ontario,14711861,2.72E-07,2.72E-07
+26-Feb-20,,Ontario,Canada,4,0,0,Ontario,14711862,2.72E-07,2.72E-07
+27-Feb-20,,Ontario,Canada,6,2,2,Ontario,14711863,4.08E-07,4.08E-07
+28-Feb-20,,Ontario,Canada,6,0,0,Ontario,14711864,4.08E-07,4.08E-07
+29-Feb-20,,Ontario,Canada,11,5,5,Ontario,14711865,7.48E-07,7.48E-07
+1-Mar-20,,Ontario,Canada,15,4,4,Ontario,14711866,1.02E-06,1.02E-06
+2-Mar-20,,Ontario,Canada,18,3,3,Ontario,14711867,1.22E-06,1.22E-06
+3-Mar-20,,Ontario,Canada,20,2,2,Ontario,14711868,1.36E-06,1.36E-06
+4-Mar-20,,Ontario,Canada,20,0,0,Ontario,14711869,1.36E-06,1.36E-06
+5-Mar-20,,Ontario,Canada,22,2,2,Ontario,14711870,1.50E-06,1.50E-06
+6-Mar-20,,Ontario,Canada,25,3,3,Ontario,14711871,1.70E-06,1.70E-06
+7-Mar-20,,Ontario,Canada,28,3,3,Ontario,14711872,1.90E-06,1.90E-06
+8-Mar-20,,Ontario,Canada,29,1,1,Ontario,14711873,1.97E-06,1.97E-06
+9-Mar-20,,Ontario,Canada,34,5,5,Ontario,14711874,2.31E-06,2.31E-06
+10-Mar-20,,Ontario,Canada,36,2,2,Ontario,14711875,2.45E-06,2.45E-06
+11-Mar-20,,Ontario,Canada,41,5,5,Ontario,14711876,2.79E-06,2.79E-06
+12-Mar-20,,Ontario,Canada,42,1,1,Ontario,14711877,2.85E-06,2.85E-06
+13-Mar-20,,Ontario,Canada,74,32,32,Ontario,14711878,5.03E-06,5.03E-06
+14-Mar-20,,Ontario,Canada,79,5,5,Ontario,14711879,5.37E-06,5.37E-06
+15-Mar-20,,Ontario,Canada,104,25,25,Ontario,14711880,7.07E-06,7.07E-06
+16-Mar-20,,Ontario,Canada,177,73,73,Ontario,14711881,1.20E-05,1.20E-05
+17-Mar-20,,Ontario,Canada,185,8,8,Ontario,14711882,1.26E-05,1.26E-05
+18-Mar-20,,Ontario,Canada,221,36,36,Ontario,14711883,1.50E-05,1.50E-05
+19-Mar-20,,Ontario,Canada,257,36,36,Ontario,14711884,1.75E-05,1.75E-05
+20-Mar-20,,Ontario,Canada,308,51,51,Ontario,14711885,2.09E-05,2.09E-05
+21-Mar-20,,Ontario,Canada,377,69,69,Ontario,14711886,2.56E-05,2.56E-05
+22-Mar-20,,Ontario,Canada,425,48,48,Ontario,14711887,2.89E-05,2.89E-05
+23-Mar-20,,Ontario,Canada,503,78,78,Ontario,14711888,3.42E-05,3.42E-05
+24-Mar-20,,Ontario,Canada,588,85,85,Ontario,14711889,4.00E-05,4.00E-05
+25-Mar-20,,Ontario,Canada,688,100,100,Ontario,14711890,4.68E-05,4.68E-05
+26-Mar-20,,Ontario,Canada,858,170,170,Ontario,14711891,5.83E-05,5.83E-05
+27-Mar-20,,Ontario,Canada,994,136,136,Ontario,14711892,6.76E-05,6.76E-05
+28-Mar-20,,Ontario,Canada,1144,150,150,Ontario,14711893,7.78E-05,7.78E-05
+29-Mar-20,,Ontario,Canada,1355,211,211,Ontario,14711894,9.21E-05,9.21E-05
+30-Mar-20,,Ontario,Canada,1706,351,351,Ontario,14711895,0.000115961,0.000115961
+31-Mar-20,,Ontario,Canada,1966,260,260,Ontario,14711896,0.000133633,0.000133633
+1-Apr-20,,Ontario,Canada,2392,426,426,Ontario,14711897,0.00016259,0.00016259
+2-Apr-20,,Ontario,Canada,2793,401,401,Ontario,14711898,0.000189846,0.000189846
+3-Apr-20,,Ontario,Canada,3255,462,462,Ontario,14711899,0.000221249,0.000221249
+4-Apr-20,,Ontario,Canada,3630,375,375,Ontario,14711900,0.000246739,0.000246739
+5-Apr-20,,Ontario,Canada,4354,724,724,Ontario,14711901,0.000295951,0.000295951
+6-Apr-20,,Ontario,Canada,4347,-7,0,Ontario,14711902,0.000295475,0.000295475
+7-Apr-20,,Ontario,Canada,4726,379,379,Ontario,14711903,0.000321236,0.000321236
+8-Apr-20,,Ontario,Canada,5276,550,550,Ontario,14711904,0.000358621,0.000358621
+9-Apr-20,,Ontario,Canada,5759,483,483,Ontario,14711905,0.000391452,0.000391452
+10-Apr-20,,Ontario,Canada,6237,478,478,Ontario,14711906,0.000423942,0.000423942
+11-Apr-20,,Ontario,Canada,6648,411,411,Ontario,14711907,0.000451879,0.000451879
+12-Apr-20,,Ontario,Canada,7049,401,401,Ontario,14711908,0.000479136,0.000479136
+13-Apr-20,,Ontario,Canada,7470,421,421,Ontario,14711909,0.000507752,0.000507752
+14-Apr-20,,Ontario,Canada,7953,483,483,Ontario,14711910,0.000540582,0.000540582
+15-Apr-20,,Ontario,Canada,8447,494,494,Ontario,14711911,0.000574161,0.000574161
+16-Apr-20,,Ontario,Canada,9840,1393,1393,Ontario,14711912,0.000668846,0.000668846
+17-Apr-20,,Ontario,Canada,10456,616,616,Ontario,14711913,0.000710717,0.000710717
+18-Apr-20,,Ontario,Canada,11013,557,557,Ontario,14711914,0.000748577,0.000748577
+19-Apr-20,,Ontario,Canada,11561,548,548,Ontario,14711915,0.000785826,0.000785826
+20-Apr-20,,Ontario,Canada,12063,502,502,Ontario,14711916,0.000819948,0.000819948
+21-Apr-20,,Ontario,Canada,12715,652,652,Ontario,14711917,0.000864265,0.000864265
+22-Apr-20,,Ontario,Canada,13718,1003,1003,Ontario,14711918,0.000932441,0.000932441
+23-Apr-20,,Ontario,Canada,14068,350,350,Ontario,14711919,0.000956231,0.000956231
+24-Apr-20,,Ontario,Canada,14550,482,482,Ontario,14711920,0.000988994,0.000988994
+25-Apr-20,,Ontario,Canada,15012,462,462,Ontario,14711921,0.001020397,0.001020397
+26-Apr-20,,Ontario,Canada,15568,556,556,Ontario,14711922,0.001058189,0.001058189
+27-Apr-20,,Ontario,Canada,15970,402,402,Ontario,14711923,0.001085514,0.001085514
+28-Apr-20,,Ontario,Canada,16500,530,530,Ontario,14711924,0.001121539,0.001121539
+29-Apr-20,,Ontario,Canada,16978,478,478,Ontario,14711925,0.00115403,0.00115403
+30-Apr-20,,Ontario,Canada,17395,417,417,Ontario,14711926,0.001182374,0.001182374
+1-May-20,,Ontario,Canada,17880,485,485,Ontario,14711927,0.00121534,0.00121534
+2-May-20,,Ontario,Canada,18321,441,441,Ontario,14711928,0.001245316,0.001245316
+3-May-20,,Ontario,Canada,18574,253,253,Ontario,14711929,0.001262513,0.001262513
+4-May-20,,Ontario,Canada,19097,523,523,Ontario,14711930,0.001298062,0.001298062
+5-May-20,,Ontario,Canada,19468,371,371,Ontario,14711931,0.00132328,0.00132328
+6-May-20,,Ontario,Canada,19910,442,442,Ontario,14711932,0.001353323,0.001353323
+7-May-20,,Ontario,Canada,20388,478,478,Ontario,14711933,0.001385814,0.001385814
+8-May-20,,Ontario,Canada,20826,438,438,Ontario,14711934,0.001415585,0.001415585
+9-May-20,,Ontario,Canada,21148,322,322,Ontario,14711935,0.001437472,0.001437472
+10-May-20,,Ontario,Canada,21469,321,321,Ontario,14711936,0.001459291,0.001459291
+11-May-20,,Ontario,Canada,21817,348,348,Ontario,14711937,0.001482945,0.001482945
+12-May-20,,Ontario,Canada,22158,341,341,Ontario,14711938,0.001506124,0.001506124
+13-May-20,,Ontario,Canada,22516,358,358,Ontario,14711939,0.001530458,0.001530458
+14-May-20,,Ontario,Canada,22865,349,349,Ontario,14711940,0.00155418,0.00155418
+15-May-20,,Ontario,Canada,23258,393,393,Ontario,14711941,0.001580893,0.001580893
+16-May-20,,Ontario,Canada,23645,387,387,Ontario,14711942,0.001607198,0.001607198
+17-May-20,,Ontario,Canada,23974,329,329,Ontario,14711943,0.00162956,0.00162956
+18-May-20,,Ontario,Canada,24286,312,312,Ontario,14711944,0.001650768,0.001650768
+19-May-20,,Ontario,Canada,24755,469,469,Ontario,14711945,0.001682646,0.001682646
+20-May-20,,Ontario,Canada,25197,442,442,Ontario,14711946,0.00171269,0.00171269
+21-May-20,,Ontario,Canada,25595,398,398,Ontario,14711947,0.001739743,0.001739743
+22-May-20,,Ontario,Canada,26085,490,490,Ontario,14711948,0.001773049,0.001773049
+23-May-20,,Ontario,Canada,26560,475,475,Ontario,14711949,0.001805335,0.001805335
+24-May-20,,Ontario,Canada,26897,337,337,Ontario,14711950,0.001828242,0.001828242
+25-May-20,,Ontario,Canada,27302,405,405,Ontario,14711951,0.00185577,0.00185577
+26-May-20,,Ontario,Canada,27624,322,322,Ontario,14711952,0.001877657,0.001877657
+27-May-20,,Ontario,Canada,27943,319,319,Ontario,14711953,0.00189934,0.00189934
+28-May-20,,Ontario,Canada,28320,377,377,Ontario,14711954,0.001924965,0.001924965
+29-May-20,,Ontario,Canada,28700,380,380,Ontario,14711955,0.001950794,0.001950794
+30-May-20,,Ontario,Canada,29023,323,323,Ontario,14711956,0.001972749,0.001972749
+31-May-20,,Ontario,Canada,29390,367,367,Ontario,14711957,0.001997695,0.001997695
+1-Jun-20,,Ontario,Canada,29845,455,455,Ontario,14711958,0.002028622,0.002028622
+2-Jun-20,,Ontario,Canada,30259,414,414,Ontario,14711959,0.002056762,0.002056762
+3-Jun-20,,Ontario,Canada,30603,344,344,Ontario,14711960,0.002080144,0.002080144
+4-Jun-20,,Ontario,Canada,30946,343,343,Ontario,14711961,0.002103459,0.002103459
+5-Jun-20,,Ontario,Canada,31359,413,413,Ontario,14711962,0.002131531,0.002131531
+6-Jun-20,,Ontario,Canada,31620,261,261,Ontario,14711963,0.002149271,0.002149271
+7-Jun-20,,Ontario,Canada,32096,476,476,Ontario,14711964,0.002181626,0.002181626
+8-Jun-20,,Ontario,Canada,32395,299,299,Ontario,14711965,0.002201949,0.002201949
+9-Jun-20,,Ontario,Canada,32678,283,283,Ontario,14711966,0.002221185,0.002221185
+10-Jun-20,,Ontario,Canada,32936,258,258,Ontario,14711967,0.002238722,0.002238722
+11-Jun-20,,Ontario,Canada,33173,237,237,Ontario,14711968,0.002254831,0.002254831
+12-Jun-20,,Ontario,Canada,33378,205,205,Ontario,14711969,0.002268765,0.002268765
+13-Jun-20,,Ontario,Canada,33625,247,247,Ontario,14711970,0.002285554,0.002285554
+22-Jan-20,,Prince Edward Island,Canada,0,-33625,0,Prince Edward Island,158158,0,0
+23-Jan-20,,Prince Edward Island,Canada,0,0,0,Prince Edward Island,158159,0,0
+24-Jan-20,,Prince Edward Island,Canada,0,0,0,Prince Edward Island,158160,0,0
+25-Jan-20,,Prince Edward Island,Canada,0,0,0,Prince Edward Island,158161,0,0
+26-Jan-20,,Prince Edward Island,Canada,0,0,0,Prince Edward Island,158162,0,0
+27-Jan-20,,Prince Edward Island,Canada,0,0,0,Prince Edward Island,158163,0,0
+28-Jan-20,,Prince Edward Island,Canada,0,0,0,Prince Edward Island,158164,0,0
+29-Jan-20,,Prince Edward Island,Canada,0,0,0,Prince Edward Island,158165,0,0
+30-Jan-20,,Prince Edward Island,Canada,0,0,0,Prince Edward Island,158166,0,0
+31-Jan-20,,Prince Edward Island,Canada,0,0,0,Prince Edward Island,158167,0,0
+1-Feb-20,,Prince Edward Island,Canada,0,0,0,Prince Edward Island,158168,0,0
+2-Feb-20,,Prince Edward Island,Canada,0,0,0,Prince Edward Island,158169,0,0
+3-Feb-20,,Prince Edward Island,Canada,0,0,0,Prince Edward Island,158170,0,0
+4-Feb-20,,Prince Edward Island,Canada,0,0,0,Prince Edward Island,158171,0,0
+5-Feb-20,,Prince Edward Island,Canada,0,0,0,Prince Edward Island,158172,0,0
+6-Feb-20,,Prince Edward Island,Canada,0,0,0,Prince Edward Island,158173,0,0
+7-Feb-20,,Prince Edward Island,Canada,0,0,0,Prince Edward Island,158174,0,0
+8-Feb-20,,Prince Edward Island,Canada,0,0,0,Prince Edward Island,158175,0,0
+9-Feb-20,,Prince Edward Island,Canada,0,0,0,Prince Edward Island,158176,0,0
+10-Feb-20,,Prince Edward Island,Canada,0,0,0,Prince Edward Island,158177,0,0
+11-Feb-20,,Prince Edward Island,Canada,0,0,0,Prince Edward Island,158178,0,0
+12-Feb-20,,Prince Edward Island,Canada,0,0,0,Prince Edward Island,158179,0,0
+13-Feb-20,,Prince Edward Island,Canada,0,0,0,Prince Edward Island,158180,0,0
+14-Feb-20,,Prince Edward Island,Canada,0,0,0,Prince Edward Island,158181,0,0
+15-Feb-20,,Prince Edward Island,Canada,0,0,0,Prince Edward Island,158182,0,0
+16-Feb-20,,Prince Edward Island,Canada,0,0,0,Prince Edward Island,158183,0,0
+17-Feb-20,,Prince Edward Island,Canada,0,0,0,Prince Edward Island,158184,0,0
+18-Feb-20,,Prince Edward Island,Canada,0,0,0,Prince Edward Island,158185,0,0
+19-Feb-20,,Prince Edward Island,Canada,0,0,0,Prince Edward Island,158186,0,0
+20-Feb-20,,Prince Edward Island,Canada,0,0,0,Prince Edward Island,158187,0,0
+21-Feb-20,,Prince Edward Island,Canada,0,0,0,Prince Edward Island,158188,0,0
+22-Feb-20,,Prince Edward Island,Canada,0,0,0,Prince Edward Island,158189,0,0
+23-Feb-20,,Prince Edward Island,Canada,0,0,0,Prince Edward Island,158190,0,0
+24-Feb-20,,Prince Edward Island,Canada,0,0,0,Prince Edward Island,158191,0,0
+25-Feb-20,,Prince Edward Island,Canada,0,0,0,Prince Edward Island,158192,0,0
+26-Feb-20,,Prince Edward Island,Canada,0,0,0,Prince Edward Island,158193,0,0
+27-Feb-20,,Prince Edward Island,Canada,0,0,0,Prince Edward Island,158194,0,0
+28-Feb-20,,Prince Edward Island,Canada,0,0,0,Prince Edward Island,158195,0,0
+29-Feb-20,,Prince Edward Island,Canada,0,0,0,Prince Edward Island,158196,0,0
+1-Mar-20,,Prince Edward Island,Canada,0,0,0,Prince Edward Island,158197,0,0
+2-Mar-20,,Prince Edward Island,Canada,0,0,0,Prince Edward Island,158198,0,0
+3-Mar-20,,Prince Edward Island,Canada,0,0,0,Prince Edward Island,158199,0,0
+4-Mar-20,,Prince Edward Island,Canada,0,0,0,Prince Edward Island,158200,0,0
+5-Mar-20,,Prince Edward Island,Canada,0,0,0,Prince Edward Island,158201,0,0
+6-Mar-20,,Prince Edward Island,Canada,0,0,0,Prince Edward Island,158202,0,0
+7-Mar-20,,Prince Edward Island,Canada,0,0,0,Prince Edward Island,158203,0,0
+8-Mar-20,,Prince Edward Island,Canada,0,0,0,Prince Edward Island,158204,0,0
+9-Mar-20,,Prince Edward Island,Canada,0,0,0,Prince Edward Island,158205,0,0
+10-Mar-20,,Prince Edward Island,Canada,0,0,0,Prince Edward Island,158206,0,0
+11-Mar-20,,Prince Edward Island,Canada,0,0,0,Prince Edward Island,158207,0,0
+12-Mar-20,,Prince Edward Island,Canada,0,0,0,Prince Edward Island,158208,0,0
+13-Mar-20,,Prince Edward Island,Canada,0,0,0,Prince Edward Island,158209,0,0
+14-Mar-20,,Prince Edward Island,Canada,0,0,0,Prince Edward Island,158210,0,0
+15-Mar-20,,Prince Edward Island,Canada,1,1,1,Prince Edward Island,158211,6.32E-06,6.32E-06
+16-Mar-20,,Prince Edward Island,Canada,1,0,0,Prince Edward Island,158212,6.32E-06,6.32E-06
+17-Mar-20,,Prince Edward Island,Canada,1,0,0,Prince Edward Island,158213,6.32E-06,6.32E-06
+18-Mar-20,,Prince Edward Island,Canada,1,0,0,Prince Edward Island,158214,6.32E-06,6.32E-06
+19-Mar-20,,Prince Edward Island,Canada,2,1,1,Prince Edward Island,158215,1.26E-05,1.26E-05
+20-Mar-20,,Prince Edward Island,Canada,2,0,0,Prince Edward Island,158216,1.26E-05,1.26E-05
+21-Mar-20,,Prince Edward Island,Canada,2,0,0,Prince Edward Island,158217,1.26E-05,1.26E-05
+22-Mar-20,,Prince Edward Island,Canada,3,1,1,Prince Edward Island,158218,1.90E-05,1.90E-05
+23-Mar-20,,Prince Edward Island,Canada,3,0,0,Prince Edward Island,158219,1.90E-05,1.90E-05
+24-Mar-20,,Prince Edward Island,Canada,3,0,0,Prince Edward Island,158220,1.90E-05,1.90E-05
+25-Mar-20,,Prince Edward Island,Canada,5,2,2,Prince Edward Island,158221,3.16E-05,3.16E-05
+26-Mar-20,,Prince Edward Island,Canada,5,0,0,Prince Edward Island,158222,3.16E-05,3.16E-05
+27-Mar-20,,Prince Edward Island,Canada,9,4,4,Prince Edward Island,158223,5.69E-05,5.69E-05
+28-Mar-20,,Prince Edward Island,Canada,11,2,2,Prince Edward Island,158224,6.95E-05,6.95E-05
+29-Mar-20,,Prince Edward Island,Canada,11,0,0,Prince Edward Island,158225,6.95E-05,6.95E-05
+30-Mar-20,,Prince Edward Island,Canada,18,7,7,Prince Edward Island,158226,0.000113761,0.000113761
+31-Mar-20,,Prince Edward Island,Canada,21,3,3,Prince Edward Island,158227,0.000132721,0.000132721
+1-Apr-20,,Prince Edward Island,Canada,21,0,0,Prince Edward Island,158228,0.00013272,0.00013272
+2-Apr-20,,Prince Edward Island,Canada,22,1,1,Prince Edward Island,158229,0.000139039,0.000139039
+3-Apr-20,,Prince Edward Island,Canada,22,0,0,Prince Edward Island,158230,0.000139038,0.000139038
+4-Apr-20,,Prince Edward Island,Canada,22,0,0,Prince Edward Island,158231,0.000139037,0.000139037
+5-Apr-20,,Prince Edward Island,Canada,22,0,0,Prince Edward Island,158232,0.000139036,0.000139036
+6-Apr-20,,Prince Edward Island,Canada,22,0,0,Prince Edward Island,158233,0.000139035,0.000139035
+7-Apr-20,,Prince Edward Island,Canada,22,0,0,Prince Edward Island,158234,0.000139035,0.000139035
+8-Apr-20,,Prince Edward Island,Canada,25,3,3,Prince Edward Island,158235,0.000157993,0.000157993
+9-Apr-20,,Prince Edward Island,Canada,25,0,0,Prince Edward Island,158236,0.000157992,0.000157992
+10-Apr-20,,Prince Edward Island,Canada,25,0,0,Prince Edward Island,158237,0.000157991,0.000157991
+11-Apr-20,,Prince Edward Island,Canada,25,0,0,Prince Edward Island,158238,0.00015799,0.00015799
+12-Apr-20,,Prince Edward Island,Canada,25,0,0,Prince Edward Island,158239,0.000157989,0.000157989
+13-Apr-20,,Prince Edward Island,Canada,25,0,0,Prince Edward Island,158240,0.000157988,0.000157988
+14-Apr-20,,Prince Edward Island,Canada,25,0,0,Prince Edward Island,158241,0.000157987,0.000157987
+15-Apr-20,,Prince Edward Island,Canada,26,1,1,Prince Edward Island,158242,0.000164305,0.000164305
+16-Apr-20,,Prince Edward Island,Canada,26,0,0,Prince Edward Island,158243,0.000164304,0.000164304
+17-Apr-20,,Prince Edward Island,Canada,26,0,0,Prince Edward Island,158244,0.000164303,0.000164303
+18-Apr-20,,Prince Edward Island,Canada,26,0,0,Prince Edward Island,158245,0.000164302,0.000164302
+19-Apr-20,,Prince Edward Island,Canada,26,0,0,Prince Edward Island,158246,0.000164301,0.000164301
+20-Apr-20,,Prince Edward Island,Canada,26,0,0,Prince Edward Island,158247,0.0001643,0.0001643
+21-Apr-20,,Prince Edward Island,Canada,26,0,0,Prince Edward Island,158248,0.000164299,0.000164299
+22-Apr-20,,Prince Edward Island,Canada,26,0,0,Prince Edward Island,158249,0.000164298,0.000164298
+23-Apr-20,,Prince Edward Island,Canada,26,0,0,Prince Edward Island,158250,0.000164297,0.000164297
+24-Apr-20,,Prince Edward Island,Canada,26,0,0,Prince Edward Island,158251,0.000164296,0.000164296
+25-Apr-20,,Prince Edward Island,Canada,26,0,0,Prince Edward Island,158252,0.000164295,0.000164295
+26-Apr-20,,Prince Edward Island,Canada,26,0,0,Prince Edward Island,158253,0.000164294,0.000164294
+27-Apr-20,,Prince Edward Island,Canada,26,0,0,Prince Edward Island,158254,0.000164293,0.000164293
+28-Apr-20,,Prince Edward Island,Canada,27,1,1,Prince Edward Island,158255,0.000170611,0.000170611
+29-Apr-20,,Prince Edward Island,Canada,27,0,0,Prince Edward Island,158256,0.00017061,0.00017061
+30-Apr-20,,Prince Edward Island,Canada,27,0,0,Prince Edward Island,158257,0.000170609,0.000170609
+1-May-20,,Prince Edward Island,Canada,27,0,0,Prince Edward Island,158258,0.000170607,0.000170607
+2-May-20,,Prince Edward Island,Canada,27,0,0,Prince Edward Island,158259,0.000170606,0.000170606
+3-May-20,,Prince Edward Island,Canada,27,0,0,Prince Edward Island,158260,0.000170605,0.000170605
+4-May-20,,Prince Edward Island,Canada,27,0,0,Prince Edward Island,158261,0.000170604,0.000170604
+5-May-20,,Prince Edward Island,Canada,27,0,0,Prince Edward Island,158262,0.000170603,0.000170603
+6-May-20,,Prince Edward Island,Canada,27,0,0,Prince Edward Island,158263,0.000170602,0.000170602
+7-May-20,,Prince Edward Island,Canada,27,0,0,Prince Edward Island,158264,0.000170601,0.000170601
+8-May-20,,Prince Edward Island,Canada,27,0,0,Prince Edward Island,158265,0.0001706,0.0001706
+9-May-20,,Prince Edward Island,Canada,27,0,0,Prince Edward Island,158266,0.000170599,0.000170599
+10-May-20,,Prince Edward Island,Canada,27,0,0,Prince Edward Island,158267,0.000170598,0.000170598
+11-May-20,,Prince Edward Island,Canada,27,0,0,Prince Edward Island,158268,0.000170597,0.000170597
+12-May-20,,Prince Edward Island,Canada,27,0,0,Prince Edward Island,158269,0.000170596,0.000170596
+13-May-20,,Prince Edward Island,Canada,27,0,0,Prince Edward Island,158270,0.000170595,0.000170595
+14-May-20,,Prince Edward Island,Canada,27,0,0,Prince Edward Island,158271,0.000170593,0.000170593
+15-May-20,,Prince Edward Island,Canada,27,0,0,Prince Edward Island,158272,0.000170592,0.000170592
+16-May-20,,Prince Edward Island,Canada,27,0,0,Prince Edward Island,158273,0.000170591,0.000170591
+17-May-20,,Prince Edward Island,Canada,27,0,0,Prince Edward Island,158274,0.00017059,0.00017059
+18-May-20,,Prince Edward Island,Canada,27,0,0,Prince Edward Island,158275,0.000170589,0.000170589
+19-May-20,,Prince Edward Island,Canada,27,0,0,Prince Edward Island,158276,0.000170588,0.000170588
+20-May-20,,Prince Edward Island,Canada,27,0,0,Prince Edward Island,158277,0.000170587,0.000170587
+21-May-20,,Prince Edward Island,Canada,27,0,0,Prince Edward Island,158278,0.000170586,0.000170586
+22-May-20,,Prince Edward Island,Canada,27,0,0,Prince Edward Island,158279,0.000170585,0.000170585
+23-May-20,,Prince Edward Island,Canada,27,0,0,Prince Edward Island,158280,0.000170584,0.000170584
+24-May-20,,Prince Edward Island,Canada,27,0,0,Prince Edward Island,158281,0.000170583,0.000170583
+25-May-20,,Prince Edward Island,Canada,27,0,0,Prince Edward Island,158282,0.000170582,0.000170582
+26-May-20,,Prince Edward Island,Canada,27,0,0,Prince Edward Island,158283,0.000170581,0.000170581
+27-May-20,,Prince Edward Island,Canada,27,0,0,Prince Edward Island,158284,0.000170579,0.000170579
+28-May-20,,Prince Edward Island,Canada,27,0,0,Prince Edward Island,158285,0.000170578,0.000170578
+29-May-20,,Prince Edward Island,Canada,27,0,0,Prince Edward Island,158286,0.000170577,0.000170577
+30-May-20,,Prince Edward Island,Canada,27,0,0,Prince Edward Island,158287,0.000170576,0.000170576
+31-May-20,,Prince Edward Island,Canada,27,0,0,Prince Edward Island,158288,0.000170575,0.000170575
+1-Jun-20,,Prince Edward Island,Canada,27,0,0,Prince Edward Island,158289,0.000170574,0.000170574
+2-Jun-20,,Prince Edward Island,Canada,27,0,0,Prince Edward Island,158290,0.000170573,0.000170573
+3-Jun-20,,Prince Edward Island,Canada,27,0,0,Prince Edward Island,158291,0.000170572,0.000170572
+4-Jun-20,,Prince Edward Island,Canada,27,0,0,Prince Edward Island,158292,0.000170571,0.000170571
+5-Jun-20,,Prince Edward Island,Canada,27,0,0,Prince Edward Island,158293,0.00017057,0.00017057
+6-Jun-20,,Prince Edward Island,Canada,27,0,0,Prince Edward Island,158294,0.000170569,0.000170569
+7-Jun-20,,Prince Edward Island,Canada,27,0,0,Prince Edward Island,158295,0.000170568,0.000170568
+8-Jun-20,,Prince Edward Island,Canada,27,0,0,Prince Edward Island,158296,0.000170567,0.000170567
+9-Jun-20,,Prince Edward Island,Canada,27,0,0,Prince Edward Island,158297,0.000170565,0.000170565
+10-Jun-20,,Prince Edward Island,Canada,27,0,0,Prince Edward Island,158298,0.000170564,0.000170564
+11-Jun-20,,Prince Edward Island,Canada,27,0,0,Prince Edward Island,158299,0.000170563,0.000170563
+12-Jun-20,,Prince Edward Island,Canada,27,0,0,Prince Edward Island,158300,0.000170562,0.000170562
+13-Jun-20,,Prince Edward Island,Canada,27,0,0,Prince Edward Island,158301,0.000170561,0.000170561
+22-Jan-20,,Quebec,Canada,0,-27,0,Quebec,8537674,0,0
+23-Jan-20,,Quebec,Canada,0,0,0,Quebec,8537675,0,0
+24-Jan-20,,Quebec,Canada,0,0,0,Quebec,8537676,0,0
+25-Jan-20,,Quebec,Canada,0,0,0,Quebec,8537677,0,0
+26-Jan-20,,Quebec,Canada,0,0,0,Quebec,8537678,0,0
+27-Jan-20,,Quebec,Canada,0,0,0,Quebec,8537679,0,0
+28-Jan-20,,Quebec,Canada,0,0,0,Quebec,8537680,0,0
+29-Jan-20,,Quebec,Canada,0,0,0,Quebec,8537681,0,0
+30-Jan-20,,Quebec,Canada,0,0,0,Quebec,8537682,0,0
+31-Jan-20,,Quebec,Canada,0,0,0,Quebec,8537683,0,0
+1-Feb-20,,Quebec,Canada,0,0,0,Quebec,8537684,0,0
+2-Feb-20,,Quebec,Canada,0,0,0,Quebec,8537685,0,0
+3-Feb-20,,Quebec,Canada,0,0,0,Quebec,8537686,0,0
+4-Feb-20,,Quebec,Canada,0,0,0,Quebec,8537687,0,0
+5-Feb-20,,Quebec,Canada,0,0,0,Quebec,8537688,0,0
+6-Feb-20,,Quebec,Canada,0,0,0,Quebec,8537689,0,0
+7-Feb-20,,Quebec,Canada,0,0,0,Quebec,8537690,0,0
+8-Feb-20,,Quebec,Canada,0,0,0,Quebec,8537691,0,0
+9-Feb-20,,Quebec,Canada,0,0,0,Quebec,8537692,0,0
+10-Feb-20,,Quebec,Canada,0,0,0,Quebec,8537693,0,0
+11-Feb-20,,Quebec,Canada,0,0,0,Quebec,8537694,0,0
+12-Feb-20,,Quebec,Canada,0,0,0,Quebec,8537695,0,0
+13-Feb-20,,Quebec,Canada,0,0,0,Quebec,8537696,0,0
+14-Feb-20,,Quebec,Canada,0,0,0,Quebec,8537697,0,0
+15-Feb-20,,Quebec,Canada,0,0,0,Quebec,8537698,0,0
+16-Feb-20,,Quebec,Canada,0,0,0,Quebec,8537699,0,0
+17-Feb-20,,Quebec,Canada,0,0,0,Quebec,8537700,0,0
+18-Feb-20,,Quebec,Canada,0,0,0,Quebec,8537701,0,0
+19-Feb-20,,Quebec,Canada,0,0,0,Quebec,8537702,0,0
+20-Feb-20,,Quebec,Canada,0,0,0,Quebec,8537703,0,0
+21-Feb-20,,Quebec,Canada,0,0,0,Quebec,8537704,0,0
+22-Feb-20,,Quebec,Canada,0,0,0,Quebec,8537705,0,0
+23-Feb-20,,Quebec,Canada,0,0,0,Quebec,8537706,0,0
+24-Feb-20,,Quebec,Canada,0,0,0,Quebec,8537707,0,0
+25-Feb-20,,Quebec,Canada,0,0,0,Quebec,8537708,0,0
+26-Feb-20,,Quebec,Canada,0,0,0,Quebec,8537709,0,0
+27-Feb-20,,Quebec,Canada,0,0,0,Quebec,8537710,0,0
+28-Feb-20,,Quebec,Canada,1,1,1,Quebec,8537711,1.17E-07,1.17E-07
+29-Feb-20,,Quebec,Canada,1,0,0,Quebec,8537712,1.17E-07,1.17E-07
+1-Mar-20,,Quebec,Canada,1,0,0,Quebec,8537713,1.17E-07,1.17E-07
+2-Mar-20,,Quebec,Canada,1,0,0,Quebec,8537714,1.17E-07,1.17E-07
+3-Mar-20,,Quebec,Canada,1,0,0,Quebec,8537715,1.17E-07,1.17E-07
+4-Mar-20,,Quebec,Canada,1,0,0,Quebec,8537716,1.17E-07,1.17E-07
+5-Mar-20,,Quebec,Canada,2,1,1,Quebec,8537717,2.34E-07,2.34E-07
+6-Mar-20,,Quebec,Canada,2,0,0,Quebec,8537718,2.34E-07,2.34E-07
+7-Mar-20,,Quebec,Canada,3,1,1,Quebec,8537719,3.51E-07,3.51E-07
+8-Mar-20,,Quebec,Canada,4,1,1,Quebec,8537720,4.69E-07,4.69E-07
+9-Mar-20,,Quebec,Canada,4,0,0,Quebec,8537721,4.69E-07,4.69E-07
+10-Mar-20,,Quebec,Canada,4,0,0,Quebec,8537722,4.69E-07,4.69E-07
+11-Mar-20,,Quebec,Canada,8,4,4,Quebec,8537723,9.37E-07,9.37E-07
+12-Mar-20,,Quebec,Canada,9,1,1,Quebec,8537724,1.05E-06,1.05E-06
+13-Mar-20,,Quebec,Canada,17,8,8,Quebec,8537725,1.99E-06,1.99E-06
+14-Mar-20,,Quebec,Canada,17,0,0,Quebec,8537726,1.99E-06,1.99E-06
+15-Mar-20,,Quebec,Canada,24,7,7,Quebec,8537727,2.81E-06,2.81E-06
+16-Mar-20,,Quebec,Canada,50,26,26,Quebec,8537728,5.86E-06,5.86E-06
+17-Mar-20,,Quebec,Canada,74,24,24,Quebec,8537729,8.67E-06,8.67E-06
+18-Mar-20,,Quebec,Canada,94,20,20,Quebec,8537730,1.10E-05,1.10E-05
+19-Mar-20,,Quebec,Canada,121,27,27,Quebec,8537731,1.42E-05,1.42E-05
+20-Mar-20,,Quebec,Canada,139,18,18,Quebec,8537732,1.63E-05,1.63E-05
+21-Mar-20,,Quebec,Canada,181,42,42,Quebec,8537733,2.12E-05,2.12E-05
+22-Mar-20,,Quebec,Canada,219,38,38,Quebec,8537734,2.57E-05,2.57E-05
+23-Mar-20,,Quebec,Canada,628,409,409,Quebec,8537735,7.36E-05,7.36E-05
+24-Mar-20,,Quebec,Canada,1013,385,385,Quebec,8537736,0.00011865,0.00011865
+25-Mar-20,,Quebec,Canada,1342,329,329,Quebec,8537737,0.000157185,0.000157185
+26-Mar-20,,Quebec,Canada,1632,290,290,Quebec,8537738,0.000191151,0.000191151
+27-Mar-20,,Quebec,Canada,2024,392,392,Quebec,8537739,0.000237065,0.000237065
+28-Mar-20,,Quebec,Canada,2498,474,474,Quebec,8537740,0.000292583,0.000292583
+29-Mar-20,,Quebec,Canada,2840,342,342,Quebec,8537741,0.000332641,0.000332641
+30-Mar-20,,Quebec,Canada,3430,590,590,Quebec,8537742,0.000401746,0.000401746
+31-Mar-20,,Quebec,Canada,4162,732,732,Quebec,8537743,0.000487482,0.000487482
+1-Apr-20,,Quebec,Canada,4611,449,449,Quebec,8537744,0.000540072,0.000540072
+2-Apr-20,,Quebec,Canada,5518,907,907,Quebec,8537745,0.000646306,0.000646306
+3-Apr-20,,Quebec,Canada,6101,583,583,Quebec,8537746,0.000714591,0.000714591
+4-Apr-20,,Quebec,Canada,6101,0,0,Quebec,8537747,0.000714591,0.000714591
+5-Apr-20,,Quebec,Canada,7944,1843,1843,Quebec,8537748,0.000930456,0.000930456
+6-Apr-20,,Quebec,Canada,8580,636,636,Quebec,8537749,0.001004949,0.001004949
+7-Apr-20,,Quebec,Canada,9340,760,760,Quebec,8537750,0.001093965,0.001093965
+8-Apr-20,,Quebec,Canada,10031,691,691,Quebec,8537751,0.0011749,0.0011749
+9-Apr-20,,Quebec,Canada,10912,881,881,Quebec,8537752,0.001278088,0.001278088
+10-Apr-20,,Quebec,Canada,11677,765,765,Quebec,8537753,0.00136769,0.00136769
+11-Apr-20,,Quebec,Canada,12292,615,615,Quebec,8537754,0.001439723,0.001439723
+12-Apr-20,,Quebec,Canada,12846,554,554,Quebec,8537755,0.001504611,0.001504611
+13-Apr-20,,Quebec,Canada,13557,711,711,Quebec,8537756,0.001587888,0.001587888
+14-Apr-20,,Quebec,Canada,14248,691,691,Quebec,8537757,0.001668822,0.001668822
+15-Apr-20,,Quebec,Canada,14860,612,612,Quebec,8537758,0.001740504,0.001740504
+16-Apr-20,,Quebec,Canada,15857,997,997,Quebec,8537759,0.001857279,0.001857279
+17-Apr-20,,Quebec,Canada,16798,941,941,Quebec,8537760,0.001967495,0.001967495
+18-Apr-20,,Quebec,Canada,17521,723,723,Quebec,8537761,0.002052177,0.002052177
+19-Apr-20,,Quebec,Canada,17950,429,429,Quebec,8537762,0.002102424,0.002102424
+20-Apr-20,,Quebec,Canada,19319,1369,1369,Quebec,8537763,0.002262771,0.002262771
+21-Apr-20,,Quebec,Canada,20126,807,807,Quebec,8537764,0.002357292,0.002357292
+22-Apr-20,,Quebec,Canada,20965,839,839,Quebec,8537765,0.002455561,0.002455561
+23-Apr-20,,Quebec,Canada,21838,873,873,Quebec,8537766,0.002557812,0.002557812
+24-Apr-20,,Quebec,Canada,22616,778,778,Quebec,8537767,0.002648936,0.002648936
+25-Apr-20,,Quebec,Canada,23267,651,651,Quebec,8537768,0.002725185,0.002725185
+26-Apr-20,,Quebec,Canada,24109,842,842,Quebec,8537769,0.002823806,0.002823806
+27-Apr-20,,Quebec,Canada,24983,874,874,Quebec,8537770,0.002926174,0.002926174
+28-Apr-20,,Quebec,Canada,25761,778,778,Quebec,8537771,0.003017298,0.003017298
+29-Apr-20,,Quebec,Canada,26610,849,849,Quebec,8537772,0.003116738,0.003116738
+30-Apr-20,,Quebec,Canada,27550,940,940,Quebec,8537773,0.003226837,0.003226837
+1-May-20,,Quebec,Canada,28656,1106,1106,Quebec,8537774,0.003356378,0.003356378
+2-May-20,,Quebec,Canada,29664,1008,1008,Quebec,8537775,0.003474442,0.003474442
+3-May-20,,Quebec,Canada,31873,2209,2209,Quebec,8537776,0.003733174,0.003733174
+4-May-20,,Quebec,Canada,32631,758,758,Quebec,8537777,0.003821955,0.003821955
+5-May-20,,Quebec,Canada,33425,794,794,Quebec,8537778,0.003914953,0.003914953
+6-May-20,,Quebec,Canada,34334,909,909,Quebec,8537779,0.004021421,0.004021421
+7-May-20,,Quebec,Canada,35249,915,915,Quebec,8537780,0.004128591,0.004128591
+8-May-20,,Quebec,Canada,36161,912,912,Quebec,8537781,0.00423541,0.00423541
+9-May-20,,Quebec,Canada,36997,836,836,Quebec,8537782,0.004333327,0.004333327
+10-May-20,,Quebec,Canada,37732,735,735,Quebec,8537783,0.004419414,0.004419414
+11-May-20,,Quebec,Canada,38480,748,748,Quebec,8537784,0.004507024,0.004507024
+12-May-20,,Quebec,Canada,39235,755,755,Quebec,8537785,0.004595454,0.004595454
+13-May-20,,Quebec,Canada,39940,705,705,Quebec,8537786,0.004678028,0.004678028
+14-May-20,,Quebec,Canada,40732,792,792,Quebec,8537787,0.004770791,0.004770791
+15-May-20,,Quebec,Canada,41429,697,697,Quebec,8537788,0.004852428,0.004852428
+16-May-20,,Quebec,Canada,42192,763,763,Quebec,8537789,0.004941795,0.004941795
+17-May-20,,Quebec,Canada,42928,736,736,Quebec,8537790,0.005027999,0.005027999
+18-May-20,,Quebec,Canada,43636,708,708,Quebec,8537791,0.005110924,0.005110924
+19-May-20,,Quebec,Canada,44206,570,570,Quebec,8537792,0.005177685,0.005177685
+20-May-20,,Quebec,Canada,44784,578,578,Quebec,8537793,0.005245384,0.005245384
+21-May-20,,Quebec,Canada,45504,720,720,Quebec,8537794,0.005329714,0.005329714
+22-May-20,,Quebec,Canada,46150,646,646,Quebec,8537795,0.005405377,0.005405377
+23-May-20,,Quebec,Canada,46847,697,697,Quebec,8537796,0.005487013,0.005487013
+24-May-20,,Quebec,Canada,47420,573,573,Quebec,8537797,0.005554126,0.005554126
+25-May-20,,Quebec,Canada,47993,573,573,Quebec,8537798,0.005621239,0.005621239
+26-May-20,,Quebec,Canada,48607,614,614,Quebec,8537799,0.005693153,0.005693153
+27-May-20,,Quebec,Canada,49148,541,541,Quebec,8537800,0.005756518,0.005756518
+28-May-20,,Quebec,Canada,49711,563,563,Quebec,8537801,0.005822459,0.005822459
+29-May-20,,Quebec,Canada,50232,521,521,Quebec,8537802,0.005883481,0.005883481
+30-May-20,,Quebec,Canada,50651,419,419,Quebec,8537803,0.005932557,0.005932557
+31-May-20,,Quebec,Canada,51059,408,408,Quebec,8537804,0.005980343,0.005980343
+1-Jun-20,,Quebec,Canada,51354,295,295,Quebec,8537805,0.006014895,0.006014895
+2-Jun-20,,Quebec,Canada,51593,239,239,Quebec,8537806,0.006042887,0.006042887
+3-Jun-20,,Quebec,Canada,51884,291,291,Quebec,8537807,0.00607697,0.00607697
+4-Jun-20,,Quebec,Canada,52143,259,259,Quebec,8537808,0.006107305,0.006107305
+5-Jun-20,,Quebec,Canada,52398,255,255,Quebec,8537809,0.006137172,0.006137172
+6-Jun-20,,Quebec,Canada,52624,226,226,Quebec,8537810,0.006163641,0.006163641
+7-Jun-20,,Quebec,Canada,52849,225,225,Quebec,8537811,0.006189994,0.006189994
+8-Jun-20,,Quebec,Canada,53047,198,198,Quebec,8537812,0.006213184,0.006213184
+9-Jun-20,,Quebec,Canada,53185,138,138,Quebec,8537813,0.006229347,0.006229347
+10-Jun-20,,Quebec,Canada,53341,156,156,Quebec,8537814,0.006247618,0.006247618
+11-Jun-20,,Quebec,Canada,53485,144,144,Quebec,8537815,0.006264483,0.006264483
+12-Jun-20,,Quebec,Canada,53666,181,181,Quebec,8537816,0.006285682,0.006285682
+13-Jun-20,,Quebec,Canada,53824,158,158,Quebec,8537817,0.006304188,0.006304188
+22-Jan-20,,Saskatchewan,Canada,0,-53824,0,Saskatchewan,1181666,0,0
+23-Jan-20,,Saskatchewan,Canada,0,0,0,Saskatchewan,1181667,0,0
+24-Jan-20,,Saskatchewan,Canada,0,0,0,Saskatchewan,1181668,0,0
+25-Jan-20,,Saskatchewan,Canada,0,0,0,Saskatchewan,1181669,0,0
+26-Jan-20,,Saskatchewan,Canada,0,0,0,Saskatchewan,1181670,0,0
+27-Jan-20,,Saskatchewan,Canada,0,0,0,Saskatchewan,1181671,0,0
+28-Jan-20,,Saskatchewan,Canada,0,0,0,Saskatchewan,1181672,0,0
+29-Jan-20,,Saskatchewan,Canada,0,0,0,Saskatchewan,1181673,0,0
+30-Jan-20,,Saskatchewan,Canada,0,0,0,Saskatchewan,1181674,0,0
+31-Jan-20,,Saskatchewan,Canada,0,0,0,Saskatchewan,1181675,0,0
+1-Feb-20,,Saskatchewan,Canada,0,0,0,Saskatchewan,1181676,0,0
+2-Feb-20,,Saskatchewan,Canada,0,0,0,Saskatchewan,1181677,0,0
+3-Feb-20,,Saskatchewan,Canada,0,0,0,Saskatchewan,1181678,0,0
+4-Feb-20,,Saskatchewan,Canada,0,0,0,Saskatchewan,1181679,0,0
+5-Feb-20,,Saskatchewan,Canada,0,0,0,Saskatchewan,1181680,0,0
+6-Feb-20,,Saskatchewan,Canada,0,0,0,Saskatchewan,1181681,0,0
+7-Feb-20,,Saskatchewan,Canada,0,0,0,Saskatchewan,1181682,0,0
+8-Feb-20,,Saskatchewan,Canada,0,0,0,Saskatchewan,1181683,0,0
+9-Feb-20,,Saskatchewan,Canada,0,0,0,Saskatchewan,1181684,0,0
+10-Feb-20,,Saskatchewan,Canada,0,0,0,Saskatchewan,1181685,0,0
+11-Feb-20,,Saskatchewan,Canada,0,0,0,Saskatchewan,1181686,0,0
+12-Feb-20,,Saskatchewan,Canada,0,0,0,Saskatchewan,1181687,0,0
+13-Feb-20,,Saskatchewan,Canada,0,0,0,Saskatchewan,1181688,0,0
+14-Feb-20,,Saskatchewan,Canada,0,0,0,Saskatchewan,1181689,0,0
+15-Feb-20,,Saskatchewan,Canada,0,0,0,Saskatchewan,1181690,0,0
+16-Feb-20,,Saskatchewan,Canada,0,0,0,Saskatchewan,1181691,0,0
+17-Feb-20,,Saskatchewan,Canada,0,0,0,Saskatchewan,1181692,0,0
+18-Feb-20,,Saskatchewan,Canada,0,0,0,Saskatchewan,1181693,0,0
+19-Feb-20,,Saskatchewan,Canada,0,0,0,Saskatchewan,1181694,0,0
+20-Feb-20,,Saskatchewan,Canada,0,0,0,Saskatchewan,1181695,0,0
+21-Feb-20,,Saskatchewan,Canada,0,0,0,Saskatchewan,1181696,0,0
+22-Feb-20,,Saskatchewan,Canada,0,0,0,Saskatchewan,1181697,0,0
+23-Feb-20,,Saskatchewan,Canada,0,0,0,Saskatchewan,1181698,0,0
+24-Feb-20,,Saskatchewan,Canada,0,0,0,Saskatchewan,1181699,0,0
+25-Feb-20,,Saskatchewan,Canada,0,0,0,Saskatchewan,1181700,0,0
+26-Feb-20,,Saskatchewan,Canada,0,0,0,Saskatchewan,1181701,0,0
+27-Feb-20,,Saskatchewan,Canada,0,0,0,Saskatchewan,1181702,0,0
+28-Feb-20,,Saskatchewan,Canada,0,0,0,Saskatchewan,1181703,0,0
+29-Feb-20,,Saskatchewan,Canada,0,0,0,Saskatchewan,1181704,0,0
+1-Mar-20,,Saskatchewan,Canada,0,0,0,Saskatchewan,1181705,0,0
+2-Mar-20,,Saskatchewan,Canada,0,0,0,Saskatchewan,1181706,0,0
+3-Mar-20,,Saskatchewan,Canada,0,0,0,Saskatchewan,1181707,0,0
+4-Mar-20,,Saskatchewan,Canada,0,0,0,Saskatchewan,1181708,0,0
+5-Mar-20,,Saskatchewan,Canada,0,0,0,Saskatchewan,1181709,0,0
+6-Mar-20,,Saskatchewan,Canada,0,0,0,Saskatchewan,1181710,0,0
+7-Mar-20,,Saskatchewan,Canada,0,0,0,Saskatchewan,1181711,0,0
+8-Mar-20,,Saskatchewan,Canada,0,0,0,Saskatchewan,1181712,0,0
+9-Mar-20,,Saskatchewan,Canada,0,0,0,Saskatchewan,1181713,0,0
+10-Mar-20,,Saskatchewan,Canada,0,0,0,Saskatchewan,1181714,0,0
+11-Mar-20,,Saskatchewan,Canada,0,0,0,Saskatchewan,1181715,0,0
+12-Mar-20,,Saskatchewan,Canada,0,0,0,Saskatchewan,1181716,0,0
+13-Mar-20,,Saskatchewan,Canada,2,2,2,Saskatchewan,1181717,1.69E-06,1.69E-06
+14-Mar-20,,Saskatchewan,Canada,2,0,0,Saskatchewan,1181718,1.69E-06,1.69E-06
+15-Mar-20,,Saskatchewan,Canada,2,0,0,Saskatchewan,1181719,1.69E-06,1.69E-06
+16-Mar-20,,Saskatchewan,Canada,7,5,5,Saskatchewan,1181720,5.92E-06,5.92E-06
+17-Mar-20,,Saskatchewan,Canada,7,0,0,Saskatchewan,1181721,5.92E-06,5.92E-06
+18-Mar-20,,Saskatchewan,Canada,8,1,1,Saskatchewan,1181722,6.77E-06,6.77E-06
+19-Mar-20,,Saskatchewan,Canada,16,8,8,Saskatchewan,1181723,1.35E-05,1.35E-05
+20-Mar-20,,Saskatchewan,Canada,20,4,4,Saskatchewan,1181724,1.69E-05,1.69E-05
+21-Mar-20,,Saskatchewan,Canada,26,6,6,Saskatchewan,1181725,2.20E-05,2.20E-05
+22-Mar-20,,Saskatchewan,Canada,52,26,26,Saskatchewan,1181726,4.40E-05,4.40E-05
+23-Mar-20,,Saskatchewan,Canada,66,14,14,Saskatchewan,1181727,5.59E-05,5.59E-05
+24-Mar-20,,Saskatchewan,Canada,72,6,6,Saskatchewan,1181728,6.09E-05,6.09E-05
+25-Mar-20,,Saskatchewan,Canada,72,0,0,Saskatchewan,1181729,6.09E-05,6.09E-05
+26-Mar-20,,Saskatchewan,Canada,95,23,23,Saskatchewan,1181730,8.04E-05,8.04E-05
+27-Mar-20,,Saskatchewan,Canada,95,0,0,Saskatchewan,1181731,8.04E-05,8.04E-05
+28-Mar-20,,Saskatchewan,Canada,134,39,39,Saskatchewan,1181732,0.000113393,0.000113393
+29-Mar-20,,Saskatchewan,Canada,156,22,22,Saskatchewan,1181733,0.00013201,0.00013201
+30-Mar-20,,Saskatchewan,Canada,156,0,0,Saskatchewan,1181734,0.000132009,0.000132009
+31-Mar-20,,Saskatchewan,Canada,184,28,28,Saskatchewan,1181735,0.000155703,0.000155703
+1-Apr-20,,Saskatchewan,Canada,193,9,9,Saskatchewan,1181736,0.000163319,0.000163319
+2-Apr-20,,Saskatchewan,Canada,206,13,13,Saskatchewan,1181737,0.00017432,0.00017432
+3-Apr-20,,Saskatchewan,Canada,220,14,14,Saskatchewan,1181738,0.000186166,0.000186166
+4-Apr-20,,Saskatchewan,Canada,220,0,0,Saskatchewan,1181739,0.000186166,0.000186166
+5-Apr-20,,Saskatchewan,Canada,249,29,29,Saskatchewan,1181740,0.000210706,0.000210706
+6-Apr-20,,Saskatchewan,Canada,249,0,0,Saskatchewan,1181741,0.000210706,0.000210706
+7-Apr-20,,Saskatchewan,Canada,260,11,11,Saskatchewan,1181742,0.000220014,0.000220014
+8-Apr-20,,Saskatchewan,Canada,260,0,0,Saskatchewan,1181743,0.000220014,0.000220014
+9-Apr-20,,Saskatchewan,Canada,271,11,11,Saskatchewan,1181744,0.000229322,0.000229322
+10-Apr-20,,Saskatchewan,Canada,285,14,14,Saskatchewan,1181745,0.000241169,0.000241169
+11-Apr-20,,Saskatchewan,Canada,289,4,4,Saskatchewan,1181746,0.000244553,0.000244553
+12-Apr-20,,Saskatchewan,Canada,298,9,9,Saskatchewan,1181747,0.000252169,0.000252169
+13-Apr-20,,Saskatchewan,Canada,300,2,2,Saskatchewan,1181748,0.000253861,0.000253861
+14-Apr-20,,Saskatchewan,Canada,300,0,0,Saskatchewan,1181749,0.000253861,0.000253861
+15-Apr-20,,Saskatchewan,Canada,304,4,4,Saskatchewan,1181750,0.000257246,0.000257246
+16-Apr-20,,Saskatchewan,Canada,305,1,1,Saskatchewan,1181751,0.000258092,0.000258092
+17-Apr-20,,Saskatchewan,Canada,307,2,2,Saskatchewan,1181752,0.000259784,0.000259784
+18-Apr-20,,Saskatchewan,Canada,313,6,6,Saskatchewan,1181753,0.000264861,0.000264861
+19-Apr-20,,Saskatchewan,Canada,315,2,2,Saskatchewan,1181754,0.000266553,0.000266553
+20-Apr-20,,Saskatchewan,Canada,316,1,1,Saskatchewan,1181755,0.000267399,0.000267399
+21-Apr-20,,Saskatchewan,Canada,320,4,4,Saskatchewan,1181756,0.000270783,0.000270783
+22-Apr-20,,Saskatchewan,Canada,326,6,6,Saskatchewan,1181757,0.00027586,0.00027586
+23-Apr-20,,Saskatchewan,Canada,331,5,5,Saskatchewan,1181758,0.000280091,0.000280091
+24-Apr-20,,Saskatchewan,Canada,341,10,10,Saskatchewan,1181759,0.000288553,0.000288553
+25-Apr-20,,Saskatchewan,Canada,349,8,8,Saskatchewan,1181760,0.000295322,0.000295322
+26-Apr-20,,Saskatchewan,Canada,353,4,4,Saskatchewan,1181761,0.000298707,0.000298707
+27-Apr-20,,Saskatchewan,Canada,365,12,12,Saskatchewan,1181762,0.000308861,0.000308861
+28-Apr-20,,Saskatchewan,Canada,366,1,1,Saskatchewan,1181763,0.000309707,0.000309707
+29-Apr-20,,Saskatchewan,Canada,383,17,17,Saskatchewan,1181764,0.000324092,0.000324092
+30-Apr-20,,Saskatchewan,Canada,389,6,6,Saskatchewan,1181765,0.000329169,0.000329169
+1-May-20,,Saskatchewan,Canada,415,26,26,Saskatchewan,1181766,0.000351169,0.000351169
+2-May-20,,Saskatchewan,Canada,421,6,6,Saskatchewan,1181767,0.000356246,0.000356246
+3-May-20,,Saskatchewan,Canada,433,12,12,Saskatchewan,1181768,0.0003664,0.0003664
+4-May-20,,Saskatchewan,Canada,467,34,34,Saskatchewan,1181769,0.00039517,0.00039517
+5-May-20,,Saskatchewan,Canada,487,20,20,Saskatchewan,1181770,0.000412094,0.000412094
+6-May-20,,Saskatchewan,Canada,512,25,25,Saskatchewan,1181771,0.000433248,0.000433248
+7-May-20,,Saskatchewan,Canada,531,19,19,Saskatchewan,1181772,0.000449325,0.000449325
+8-May-20,,Saskatchewan,Canada,544,13,13,Saskatchewan,1181773,0.000460325,0.000460325
+9-May-20,,Saskatchewan,Canada,553,9,9,Saskatchewan,1181774,0.000467941,0.000467941
+10-May-20,,Saskatchewan,Canada,564,11,11,Saskatchewan,1181775,0.000477248,0.000477248
+11-May-20,,Saskatchewan,Canada,568,4,4,Saskatchewan,1181776,0.000480633,0.000480633
+12-May-20,,Saskatchewan,Canada,573,5,5,Saskatchewan,1181777,0.000484863,0.000484863
+13-May-20,,Saskatchewan,Canada,577,4,4,Saskatchewan,1181778,0.000488247,0.000488247
+14-May-20,,Saskatchewan,Canada,582,5,5,Saskatchewan,1181779,0.000492478,0.000492478
+15-May-20,,Saskatchewan,Canada,590,8,8,Saskatchewan,1181780,0.000499247,0.000499247
+16-May-20,,Saskatchewan,Canada,591,1,1,Saskatchewan,1181781,0.000500093,0.000500093
+17-May-20,,Saskatchewan,Canada,592,1,1,Saskatchewan,1181782,0.000500938,0.000500938
+18-May-20,,Saskatchewan,Canada,592,0,0,Saskatchewan,1181783,0.000500938,0.000500938
+19-May-20,,Saskatchewan,Canada,599,7,7,Saskatchewan,1181784,0.000506861,0.000506861
+20-May-20,,Saskatchewan,Canada,620,21,21,Saskatchewan,1181785,0.00052463,0.00052463
+21-May-20,,Saskatchewan,Canada,622,2,2,Saskatchewan,1181786,0.000526322,0.000526322
+22-May-20,,Saskatchewan,Canada,627,5,5,Saskatchewan,1181787,0.000530552,0.000530552
+23-May-20,,Saskatchewan,Canada,630,3,3,Saskatchewan,1181788,0.000533091,0.000533091
+24-May-20,,Saskatchewan,Canada,632,2,2,Saskatchewan,1181789,0.000534782,0.000534782
+25-May-20,,Saskatchewan,Canada,634,2,2,Saskatchewan,1181790,0.000536474,0.000536474
+26-May-20,,Saskatchewan,Canada,634,0,0,Saskatchewan,1181791,0.000536474,0.000536474
+27-May-20,,Saskatchewan,Canada,637,3,3,Saskatchewan,1181792,0.000539012,0.000539012
+28-May-20,,Saskatchewan,Canada,639,2,2,Saskatchewan,1181793,0.000540704,0.000540704
+29-May-20,,Saskatchewan,Canada,641,2,2,Saskatchewan,1181794,0.000542396,0.000542396
+30-May-20,,Saskatchewan,Canada,645,4,4,Saskatchewan,1181795,0.00054578,0.00054578
+31-May-20,,Saskatchewan,Canada,646,1,1,Saskatchewan,1181796,0.000546626,0.000546626
+1-Jun-20,,Saskatchewan,Canada,646,0,0,Saskatchewan,1181797,0.000546625,0.000546625
+2-Jun-20,,Saskatchewan,Canada,646,0,0,Saskatchewan,1181798,0.000546625,0.000546625
+3-Jun-20,,Saskatchewan,Canada,647,1,1,Saskatchewan,1181799,0.00054747,0.00054747
+4-Jun-20,,Saskatchewan,Canada,648,1,1,Saskatchewan,1181800,0.000548316,0.000548316
+5-Jun-20,,Saskatchewan,Canada,649,1,1,Saskatchewan,1181801,0.000549162,0.000549162
+6-Jun-20,,Saskatchewan,Canada,650,1,1,Saskatchewan,1181802,0.000550008,0.000550008
+7-Jun-20,,Saskatchewan,Canada,650,0,0,Saskatchewan,1181803,0.000550007,0.000550007
+8-Jun-20,,Saskatchewan,Canada,654,4,4,Saskatchewan,1181804,0.000553391,0.000553391
+9-Jun-20,,Saskatchewan,Canada,656,2,2,Saskatchewan,1181805,0.000555083,0.000555083
+10-Jun-20,,Saskatchewan,Canada,658,2,2,Saskatchewan,1181806,0.000556775,0.000556775
+11-Jun-20,,Saskatchewan,Canada,660,2,2,Saskatchewan,1181807,0.000558467,0.000558467
+12-Jun-20,,Saskatchewan,Canada,663,3,3,Saskatchewan,1181808,0.000561005,0.000561005
+13-Jun-20,,Saskatchewan,Canada,664,1,1,Saskatchewan,1181809,0.000561851,0.000561851
